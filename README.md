@@ -22,6 +22,42 @@ Este blog no solo es un lugar para publicar ideas, es un **proyecto de vida**. C
 
 ---
 
+## 🚀 Getting Started (Local Setup)
+
+Si deseas ejecutar una copia local de este blog (por ejemplo, para probar cambios o contribuir), sigue estos pasos:
+
+1.  **Prerequisites**: Asegúrate de tener instalados [Ruby](https://www.ruby-lang.org/en/documentation/installation/) y [Bundler](https://bundler.io/).
+2.  **Clone**: Clona este repositorio:
+    ```bash
+    git clone https://github.com/Espiral-Cognitiva/Espiral-Cognitiva.github.io.git
+    cd Espiral-Cognitiva.github.io
+    ```
+3.  **Install Dependencies**: Instala las gemas necesarias:
+    ```bash
+    bundle install
+    ```
+4.  **Serve**: Levanta el servidor local de Jekyll:
+    ```bash
+    bundle exec jekyll serve
+    ```
+5.  **View**: Abre tu navegador y ve a `http://localhost:4000`.
+
+---
+
+## 🏗️ Project Structure
+
+Una visión general de los archivos y directorios clave:
+
+-   `_config.yml`: Archivo de configuración principal de Jekyll. Contiene ajustes globales del sitio.
+-   `_posts/`: Aquí residen todos los artículos del blog en formato Markdown.
+-   `index.markdown`: La página principal del blog.
+-   `about.markdown`: La página "Acerca de".
+-   `Gemfile` & `Gemfile.lock`: Definen las dependencias del proyecto (gemas de Ruby).
+-   `LICENSE`: Contiene la licencia MIT aplicable al código fuente.
+-   `LICENSE.content`: Contiene la licencia Creative Commons (CC BY 4.0) aplicable al contenido.
+
+---
+
 ## 🌍 ¿Quién está detrás de **Espiral Cognitiva**?
 
 Este blog está creado y curado por **José Carrillo**, un curioso explorador del pensamiento, amante de la ciencia, la filosofía y las ideas que rompen con lo tradicional. Desde mi experiencia como CTO y fundador de Apurata, mi misión es fomentar una mentalidad abierta y crítica, inspirando a otros a pensar de manera libre y profunda.
@@ -30,9 +66,10 @@ Este blog está creado y curado por **José Carrillo**, un curioso explorador de
 
 ## ⚙️ ¿Cómo puedes contribuir o involucrarte?
 
-1. **Lee**: Tómate tu tiempo para explorar los artículos, reflexiones y proyectos. Si alguna idea resuena contigo, no dudes en profundizar más.
-2. **Participa**: Los comentarios son siempre bienvenidos. Si tienes una reflexión o quieres compartir tu perspectiva, **déjala en los comentarios**.
-3. **Colabora**: Si eres un pensador crítico o un creador, ¡me encantaría colaborar contigo! Puedes escribirme a **[espiralcognitiva@gmail.com](mailto:espiralcognitiva@gmail.com)**.
+1.  **Lee y Reflexiona**: Explora los artículos y siéntete libre de profundizar en las ideas.
+2.  **Comenta**: Deja tus pensamientos y perspectivas en la sección de comentarios de cada artículo.
+3.  **Sugiere y Reporta**: Si tienes sugerencias, encuentras errores o quieres proponer cambios técnicos, **[abre un issue en GitHub](https://github.com/Espiral-Cognitiva/Espiral-Cognitiva.github.io/issues)**.
+4.  **Colabora**: Si eres un pensador o creador y te gustaría colaborar en contenido, escríbeme a **[espiralcognitiva@gmail.com](mailto:espiralcognitiva@gmail.com)**.
 
 ---
 
@@ -40,8 +77,8 @@ Este blog está creado y curado por **José Carrillo**, un curioso explorador de
 
 Este proyecto utiliza un esquema de doble licencia:
 
-- **MIT License**: Para todo el código fuente y componentes técnicos del proyecto.
-- **Creative Commons Attribution 4.0 International (CC BY 4.0)**: Para todo el contenido del blog, incluyendo artículos, imágenes y otros materiales creativos.
+-   **Código Fuente**: Distribuido bajo la [MIT License](./LICENSE).
+-   **Contenido (artículos, imágenes, etc.)**: Distribuido bajo la [Creative Commons Attribution 4.0 International (CC BY 4.0)](./LICENSE.content).
 
 ---
 
@@ -53,14 +90,15 @@ Este proyecto utiliza un esquema de doble licencia:
 
 ## 💬 ¿Tienes alguna pregunta o sugerencia?
 
-Si tienes alguna pregunta, sugerencia o comentario, **siéntete libre de abrir un issue** o escribirme a **[espiralcognitiva@gmail.com](mailto:espiralcognitiva@gmail.com)**. Estoy siempre dispuesto a debatir ideas y crecer juntos.
+Si tienes alguna pregunta, sugerencia o comentario no cubierto anteriormente, **siéntete libre de [abrir un issue](https://github.com/Espiral-Cognitiva/Espiral-Cognitiva.github.io/issues)** o escribirme a **[espiralcognitiva@gmail.com](mailto:espiralcognitiva@gmail.com)**. Estoy siempre dispuesto a debatir ideas y crecer juntos.
 
 ---
 
-## 📚 Recursos
+## 📚 Recursos y Créditos
 
-- **[Jekyll](https://jekyllrb.com/)**: Generador estático de sitios web, utilizado para crear este blog.
-- **[GitHub Pages](https://pages.github.com/)**: Plataforma gratuita para alojar este blog.
+-   **Generador**: [Jekyll](https://jekyllrb.com/) - El motor que impulsa este sitio estático.
+-   **Tema**: [Minima](https://github.com/jekyll/minima) - El tema base de Jekyll utilizado.
+-   **Alojamiento**: [GitHub Pages](https://pages.github.com/) - Plataforma gratuita para alojar el sitio.
 
 ---
 
