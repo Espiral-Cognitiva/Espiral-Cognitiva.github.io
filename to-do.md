@@ -238,3 +238,9 @@ Un micro-SaaS basado en un **chatbot de WhatsApp para profesores** reúne baja c
 Con este enfoque, un único desarrollador puede lanzar, validar y alcanzar cashflow positivo en semanas, aprovechando tendencias de EdTech y la masividad de WhatsApp.
 
 Ver este chat: https://chatgpt.com/c/680fdeaf-f9dc-800c-9ca2-ccf20164da0f
+
+
+
+Agenda bloques semanales: reserva tiempo fijo (p.ej., 2 horas semanales) para explorar un área nueva: IA avanzada, narrativa interactiva, filosofía práctica, sistemas comunitarios.
+
+Proyecto personal “Iron Fractum”: crea un prototipo mínimo viable que mezcle IA + narrativa filosófica. Por ejemplo, un chatbot que guíe a usuarios en ejercicios de reflexión estilo “Meditaciones de Aurelius” con visuales tipo “Tolkien”.
