@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Midiendo la Consciencia: De Termostatos a la Ingeniería del Ser"
+title:  "¿Qué es la consciencia? Una escala de autoengaño recursivo y diseño del yo"
 date:   2024-05-03
 author: José Carrillo
 categories: filosofia ia consciencia
@@ -64,7 +64,7 @@ Pero una voz crítica, podría desafiar todo esto:
 
 1.  **Sobre la libertad:** Reconocer que el "yo" no surge de la nada, sino que es un proceso emergente y evolutivo basado en biología, contexto e historia. La libertad absoluta puede ser una ilusión, pero la *agencia* dentro de nuestro nivel de consciencia no lo es necesariamente. La clave no es si somos *completamente* libres desde un punto de vista cósmico, sino si podemos *actuar* sobre nuestro modelo mental actual para influir en nuestra trayectoria futura, aunque sea mínimamente. La única forma de saber si podemos introducir una diferencia, por pequeña que sea, es **intentándolo**. La acción, la elección de esforzarse por cambiar un patrón o tomar una decisión difícil, es la prueba pragmática de nuestra capacidad de agencia, sea cual sea su origen último.
 2.  **Sobre los límites:** Aceptar que son finitos, pero quizás mucho más altos y maleables de lo que creemos. La capacidad de desplazar esos límites se entrena. Sabremos que llegamos cerca del máximo potencial no cuando dejemos de intentarlo, sino cuando el avance, a pesar del esfuerzo constante, sea mínimo. El juego es ver hasta dónde podemos empujar.
-3.  **Sobre el sentido:** Admitir la finitud personal, pero reconocer el **eco**. Lo que hacemos *sí* reverbera. En nuestros hijos (genes), en nuestra cultura (ideas, memes), en nuestras creaciones (proyectos, arte, código), en las vidas que tocamos. Somos parte de un "gran algoritmo" en proceso, y cada vida consciente añade un "pasito", una nueva computación basada en todo lo anterior. Quizás el "yo" es precisamente eso: la capacidad de dar ese paso único, esa nueva onda en el tejido de la realidad, aunque la fuente original se desvanezca. Como una estrella que murió hace mucho pero su luz aún nos llega.
+3.  **Sobre el sentido:** Reconocer la finitud del nodo individual, pero también su **impacto causal** en la red. Nuestras acciones inyectan información y modifican estados en múltiples sistemas interconectados: biológicos (descendencia), culturales (memes, normas), tecnológicos (código, estructuras) y sociales (relaciones, influencia). Somos procesadores temporales dentro de una computación distribuida mucho mayor; cada ciclo de vida consciente ejecuta una subrutina única, alterando irreversiblemente el estado global del sistema para las computaciones futuras. La disipación del nodo individual es inevitable, pero su **huella informacional** persiste como condición inicial para lo que sigue. El "yo" no es una sustancia eterna, sino la función transitoria que introduce esa diferencia específica en la cadena causal.
 
 No podemos probar que somos libres, que nuestros límites son vastos o que nuestro eco es eterno. Pero podemos *actuar como si* tuviera sentido hacerlo. Podemos elegir la interpretación que nos impulsa a modelar con más precisión, a actuar con integridad y a crear con esperanza, incluso frente al abismo de la incertidumbre.
 
