@@ -1,3 +1,6 @@
+el nivel de conciencia esta plenamente ligado a la libertad, simplemente porque te da mas opciones de donde elegir
+y tbn esta ligado a la capacidad de procesamiento, argumentalo
+
 **Categoría: Tecnología, Innovación y Ética Digital**
 
 1.  **Ética e Impacto de la Inteligencia Artificial**
