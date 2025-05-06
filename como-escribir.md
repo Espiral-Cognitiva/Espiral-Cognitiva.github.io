@@ -59,11 +59,28 @@
 - **Re-encuadre provocador:** Cambiar el ángulo de ideas comunes para **hacer estallar** cerebros.
 - **Confrontacional (cuando sea necesario):** No tener miedo de dirigirse directamente al lector para **sacudirlo de su complacencia.**
 
+#### Lenguaje fuerte sin vulgaridad: equivalencias sugeridas
+Para mantener el tono intenso y provocador sin recurrir a groserías, utiliza alternativas que conserven la fuerza expresiva pero sean apropiadas para una audiencia amplia. Evita el uso de malas palabras; en su lugar, emplea las siguientes equivalencias:
+
+| Grosería                | Alternativa sugerida                |
+|-------------------------|-------------------------------------|
+| jodido/jodidamente      | increíble/increíblemente            |
+| maldito, puto           | bendito, condenado, brutal          |
+| carajo, mierda, coño    | demonios, rayos, diablos, vaya      |
+| pinche                  | simple, vil, mísero                 |
+| cagada                  | error, metida de pata               |
+| hijueputa/hijo de puta  | infame, despreciable, ruin          |
+| pendejo                 | ingenuo, torpe, despistado          |
+
+**Ejemplo de transformación:**
+- Original: “Terminé jodidamente cansado de ese maldito intento.”
+- Alternativa: “Terminé increíblemente cansado de ese bendito intento.”
+
 #### Ejemplos de tono deseado (Expandido):
 - *"La consciencia no es un milagro: es un bug que aprendió a narrarse."*
 - *"Encontrarme a mí mismo fue una pérdida de tiempo. Empecé a construir al bastardo desde cero."*
 - *"Ser brújula, no mapa."*
-- *"Los ideales no se cumplen. Se encarnan parcialmente en cada maldito intento."*
+- *"Los ideales no se cumplen. Se encarnan parcialmente en cada bendito intento."*
 - *"El progreso no necesita compasión condescendiente, sino desafío con respeto."*
 - *"Hazte cada vez más digno de ser superado."*
 - *"Si el terreno no es transitable, entonces lo volveremos transitable."*
@@ -71,7 +88,8 @@
 ---
 
 ## 👥 Audiencia
-- Filósofos de a pie. Personas curiosas. Evita jergas académicas.
+- Filósofos de a pie. Personas curiosas, lúcidas, no necesariamente académicas.
+- Lenguaje claro, sin jerga innecesaria. Habla desde el intelecto encarnado, no desde la torre.
 
 ### 🖼️ Recursos
 *   Por ahora, el contenido será exclusivamente textual.
@@ -95,4 +113,4 @@
 ---
 
 ## 🪓 Mantra Final
-> *Si el lector no termina más consciente, más responsable, y jodidamente incómodo con la distancia entre quién es y quién podría ser, fallaste. Piensa hasta que duela. Rompe las ilusiones propias y ajenas. Construye con fuego. No estamos aquí para entretener ni consolar. Estamos aquí para forjar titanes. O morir en el intento.*
+> *Si el lector no termina más consciente, más responsable, e increiblemente incómodo con la distancia entre quién es y quién podría ser, fallaste. Piensa hasta que duela. Rompe las ilusiones propias y ajenas. Construye con fuego. No estamos aquí para entretener ni consolar. Estamos aquí para forjar titanes. O morir en el intento.*
