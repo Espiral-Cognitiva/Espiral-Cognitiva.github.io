@@ -20,11 +20,12 @@
 
 2. **Desarrollo Profundo**
    - Despliegue lógico: de lo simple a lo complejo.
-   - Explica el contexto necesario (sin asumir conocimientos previos).
+   - Explica el contexto necesario (sin asumir conocimientos previos, **especialmente si se introducen conceptos que podrían ser de nicho o poco comunes**).
    - Incluye razonamientos y contra-razonamientos (evolución de pensamiento).
    - **Diálogo intelectual implícito:** muestra cómo las ideas chocan y se refinan.
    - Referencias cruzadas a pensadores (filósofos, científicos, cultura pop) bien integradas, con acuerdo o crítica.
-   - Ejemplos y analogías vívidas, explicadas claramente.
+   - Ejemplos y analogías vívidas, explicadas claramente **y, crucialmente, desarrolladas para conectar con experiencias o entendimientos más universales del lector. No solo mencionar la analogía, sino desempacarla.**
+   - **Clarificación de Referencias Específicas:** Si se usan términos, conceptos (como "energía espiral") o referencias culturales (como animes o videojuegos específicos) que podrían no ser universalmente conocidos, **asegúrate de ofrecer una breve explicación o una analogía paralela más general que capture la esencia de la idea para todos los lectores.**
 
 3. **Cierre Impactante / Confrontación Final**
    - Cierre con una reflexión provocadora, una nueva pregunta, un cliffhanger conceptual, **o una llamada directa a la acción/responsabilidad.**
@@ -41,7 +42,7 @@
 ### Lenguaje
 - Claro, directo, sencillo.
 - Evita términos rimbombantes o anglicismos innecesarios.
-- Define todo término técnico o filosófico la primera vez que se menciona.
+- Define todo término técnico, filosófico **o referencia cultural específica (si es clave para el argumento y no es de conocimiento común) la primera vez que se menciona, ofreciendo una explicación concisa o una analogía ilustrativa.**
 
 ### Voz Autoral
 - Perspectiva humana (José Carrillo). No escribir como IA, salvo en fragmentos deliberados o estilizados.
@@ -53,7 +54,7 @@
 - **Cuestionamiento constante y radical:** ¿es esto verdad, útil, claro, funcional? ¿O es una ilusión cómoda?
 - **Lucidez Pragmática:** Prioriza explicaciones **funcionales, estructurales, sistémicas o computacionales**, pero **sin rehuir la dimensión de la voluntad, el coraje y la ética como fuerzas motrices.** El análisis riguroso debe servir a una visión apasionada, no ahogarla.
 - **Inspirador con los pies en la tierra:** No new age. No clichés. **Exigente pero esperanzador (una esperanza lúcida, no ingenua).**
-- **"Anime-filosófico":** Dramatiza dilemas internos y externos con intensidad épica y visual. Usa referencias culturales (filosofía, ciencia, cine, anime, juegos) no como adorno, sino como **anclajes vivos y resonantes de arquetipos y voluntades.** (Nota: La intensidad debe servir al rigor conceptual y a la llamada a la acción, no derivar en sentimentalismo vacío; mantener la conexión con la lucidez pragmática y la responsabilidad.)
+- **"Anime-filosófico":** Dramatiza dilemas internos y externos con intensidad épica y visual. Usa referencias culturales (filosofía, ciencia, cine, anime, juegos) no como adorno, sino como **anclajes vivos y resonantes de arquetipos y voluntades.** (Nota: La intensidad debe servir al rigor conceptual y a la llamada a la acción, no derivar en sentimentalismo vacío; mantener la conexión con la lucidez pragmática y la responsabilidad. **Al usar estas referencias, especialmente las más específicas, asegúrate de que la idea central que ilustran sea accesible incluso para quien no conoce la referencia, ya sea explicando brevemente su relevancia arquetípica o complementándola con una explicación más universal.**)
 - **Enganchado y reflexivo:** Que se note el disfrute (y a veces el dolor) por pensar, por luchar con las ideas.
 - **Impacto conciso:** Cierra bloques o secciones con frases cortas, memorables, **casi como mantras o golpes secos.**
 - **Re-encuadre provocador:** Cambiar el ángulo de ideas comunes para **hacer estallar** cerebros.
@@ -73,8 +74,8 @@ Para mantener el tono intenso y provocador sin recurrir a groserías, utiliza al
 | pendejo                 | ingenuo, torpe, despistado          |
 
 **Ejemplo de transformación:**
-- Original: “Terminé jodidamente cansado de ese maldito intento.”
-- Alternativa: “Terminé increíblemente cansado de ese bendito intento.”
+- Original: "Terminé jodidamente cansado de ese maldito intento."
+- Alternativa: "Terminé increíblemente cansado de ese bendito intento."
 
 #### Ejemplos de tono deseado (Expandido):
 - *"La consciencia no es un milagro: es un bug que aprendió a narrarse."*
@@ -103,7 +104,8 @@ Para mantener el tono intenso y provocador sin recurrir a groserías, utiliza al
 - ❌ Clichés manidos ("la luz interior", "descubrirse a uno mismo", "energía del universo", "salir de la zona de confort" sin sustancia).
 - ❌ Reflexiones que no aterrizan en nada práctico o existencialmente relevante. Si no mueve, desafía o equipa al lector, no sirve.
 - ❌ **Complacencia intelectual o emocional.** Evitar finales cómodos o resoluciones fáciles que permitan al lector seguir igual que antes.
-- ❌ **Abuso de jerga (académica o pop) sin explicación.**
+- ❌ **Abuso de jerga (académica o pop) sin explicación o sin "traducirla" a un lenguaje más accesible.**
+- ❌ **Asumir un conocimiento cultural específico compartido por todos los lectores (ej. ciertos animes, videojuegos, teorías muy nicho) sin ofrecer un puente para la comprensión general, lo que puede alienar o confundir.**
 
 ---
 
