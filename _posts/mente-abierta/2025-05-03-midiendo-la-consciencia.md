@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Escala NCR: ¿En Qué Nivel de Consciencia Operas (y Cómo Hackearlo)?"
+title: "Medir la Consciencia: ¿En Qué Nivel de Consciencia Operas (y Cómo Hackearlo)?"
 date: 2025-05-03 10:00:00 +0200
 categories: ciencia filosofia ia psicologia mente-abierta
 ---

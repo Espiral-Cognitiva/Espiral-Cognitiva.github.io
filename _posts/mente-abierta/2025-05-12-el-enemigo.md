@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El Enemigo: Consciencia vs. Entropía en la Batalla Cósmica"
+title: "El verdadero Enemigo: Consciencia vs. Entropía en la Batalla Cósmica"
 date: 2025-05-12 10:00:00 +0200
 categories: filosofia psicologia etica consciencia dualidad mente-abierta
 ---

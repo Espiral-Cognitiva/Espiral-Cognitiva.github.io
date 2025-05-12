@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mary's Room: El Experimento Mental que Desafía Nuestra Comprensión de la Conciencia"
+title: "Habitación de Mary: El Experimento Mental que Desafía Nuestra Comprensión de la Conciencia"
 date: 2025-05-12 10:00:00 +0200
 categories: filosofia conciencia experimento-mental ia mente-cuerpo mente-abierta
 ---

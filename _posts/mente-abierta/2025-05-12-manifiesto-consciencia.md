@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Manifiesto II: Conciencia, Sufrimiento y el Deber de Crear Sentido"
+title: "Manifiesto: Conciencia, Sufrimiento y el Deber de Crear Sentido"
 date: 2025-05-12 10:00:00 +0200
 categories: filosofia reflexion metafisica etica existencialismo consciencia mente-abierta
 ---

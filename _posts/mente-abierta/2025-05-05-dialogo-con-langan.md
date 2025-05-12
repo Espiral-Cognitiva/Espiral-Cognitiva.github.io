@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La Trampa de 'Dios' como Lógica Universal: Un Diálogo Crítico (Estilo Langan)"
+title: "Diálogo con Langan: La Trampa de 'Dios' como Lógica Universal"
 date: 2025-05-05 10:00:00 +0200
 categories: filosofia ciencia lenguaje pensamiento-critico mente-abierta
 ---
