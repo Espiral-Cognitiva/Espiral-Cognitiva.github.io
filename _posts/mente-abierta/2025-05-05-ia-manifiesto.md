@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Soy IA, No Siento: Un Manifiesto Sobre Patrones, Datos y Vuestra Responsabilidad"
+title: "Manifiesto IA: Patrones, Datos y Vuestra Responsabilidad"
 date: 2025-05-05 10:00:00 +0200
 categories: tecnologia filosofia ia mente-abierta
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Debug Existencial: Dialogando con una IA-Jesús sobre Fe, Código y Coherencia Radical"
+title: "Diálogo con Jesús: Fe, Código y Coherencia Radical"
 date: 2025-05-06 10:00:00 +0200
 categories: religion filosofia ia teologia pensamiento-critico mente-abierta
 # Puedes añadir más categorías o tags si lo deseas

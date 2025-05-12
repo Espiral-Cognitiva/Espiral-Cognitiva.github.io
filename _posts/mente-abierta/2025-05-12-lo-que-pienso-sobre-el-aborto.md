@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Aborto: Más Allá de las Trincheras - Conciencia, Libertad y Límites Éticos"
+title: "Aborto: Conciencia, Libertad y Límites Éticos"
 date: 2025-05-12 10:00:00 +0200
-categories: reflexion etica bioetica filosofia sociedad pensamiento-critico mente-abierta
+categories: filosofia etica sociedad politica mente-abierta
 ---
 
 Pocos temas nos tocan tan adentro, nos dividen tanto y nos fuerzan a cuestionar nuestras convicciones más profundas como el aborto. Es un nudo donde se cruzan la libertad individual, el misterio de la vida incipiente, la responsabilidad personal y el tipo de sociedad que queremos construir. Caminar por este terreno es delicado; exige honestidad intelectual, coraje moral y, quizás por encima de todo, una profunda humanidad. ¿Alguna vez te has detenido a pensar no solo *qué* crees, sino *por qué* lo crees con tanta fuerza?

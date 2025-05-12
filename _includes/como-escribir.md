@@ -30,7 +30,26 @@
 **Estructura Recomendada (Ensayo Reflexivo):**
 
 1.  **Título y Gancho Inicial Estratégico**
-    *   **Título:** Propón un título **impactante, intrigante y que destile la esencia** del post. Considera el posible "nivel de entrada" de la audiencia (un título más directo para `entradas`, más críptico/desafiante para `nucleo-duro`).
+    *   **Título:** Sigue esta estructura de dos partes:
+        1. **Parte 1 - Referencia Directa:** Un término, concepto o experimento reconocible y simple de entender. Ejemplos:
+           - "Bienvenida"
+           - "Aprender a enseñar"
+           - "Ley de Murphy inversa"
+           - "Midiendo la consciencia"
+        2. **Parte 2 - Provocación:** Una frase, pregunta o giro conceptual que desafíe o intrigue. Ejemplos:
+           - "¿Te Atreves a Pensar en Espiral?"
+           - "El Arte (y Peligro) de Guiar a Otros"
+           - "Forjando la Realidad con la Ley Inversa"
+           - "¿En Qué Nivel de Consciencia Operas (y Cómo Hackearlo)?"
+
+        **Formato Final:** "Parte 1: Parte 2"
+
+        **Ejemplos de Títulos Exitosos:**
+        - "Bienvenida: ¿Te Atreves a Pensar en Espiral?"
+        - "Aprender a enseñar: El Arte (y Peligro) de Guiar a Otros"
+        - "Ley de Murphy inversa: Forjando la Realidad con la Ley Inversa"
+        - "Midiendo la consciencia: ¿En Qué Nivel de Consciencia Operas (y Cómo Hackearlo)?"
+
     *   **Primer Párrafo (Gancho):** Crea una frase o párrafo potente que plantee el dilema central, la tensión o la promesa del texto. Debe enganchar de inmediato. Adapta la universalidad o confrontación del gancho según el nivel de audiencia inferido o especificado.
 
 2.  **Desarrollo Profundo y Conectado**

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Asíntota Viva: Mi Diálogo con Dios sobre Aburrimiento Divino, Límites y la Tensión como Valor"
+title: "Diálogo con Dios: Aburrimiento Divino y la Tensión como Valor"
 date: 2025-05-06 10:00:00 +0200
 categories: filosofia religion teologia cosmologia-especulativa existencialismo mente-abierta
 ---
