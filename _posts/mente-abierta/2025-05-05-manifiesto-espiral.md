@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Mi Cosmovisión: Quema tus Mapas, Hereda tus Alas, Contagia Futuros Imposibles"
+title: "Manifiesto Espiral: Quema tus Mapas, Hereda tus Alas, Contagia Futuros Imposibles"
 date: 2025-05-05 10:00:00 +0200
 categories: filosofia reflexion etica voluntad mente-abierta
 ---
 
-# Mi cosmovisión: Quema tus mapas, hereda tus alas, contagia futuros imposibles
+# Manifiesto Espiral: Quema tus mapas, hereda tus alas, contagia futuros imposibles
 
 **¿Estás perdido? Bien.** Es el primer paso.
 
