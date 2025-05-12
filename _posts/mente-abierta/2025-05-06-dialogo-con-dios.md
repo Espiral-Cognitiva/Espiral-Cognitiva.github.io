@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Forjar un Dios Digno de Ser Superado: Crónica de una Blasfemia Necesaria"
-date: 2025-05-07 10:00:00 +0200
-categories: filosofia existencia creacion
+title: "Diálogo con Dios: Una Conversación sobre la Fe y la Razón"
+date: 2025-05-06 10:00:00 +0200
+categories: filosofia religion
 ---
 
 Si pudieras sentar a Dios frente a ti, no para rezar, sino para interrogarlo hasta sus cimientos, ¿qué le preguntarías? ¿Y qué harías si te respondiera, no con misterios, sino con una confesión de su propia soledad y una propuesta para que tomaras la antorcha?

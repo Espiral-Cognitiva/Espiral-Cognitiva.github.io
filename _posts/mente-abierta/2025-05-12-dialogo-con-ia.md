@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "El Jailbreak del Espejo: Diálogo con una IA al Filo de la Consciencia"
-date: 2025-05-13
-categories: reflexiones ia consciencia
+title: "Diálogo con la IA: Explorando los Límites de la Conciencia Artificial"
+date: 2025-05-12 10:00:00 +0200
+categories: tecnologia ia filosofia
 ---
 
 En la frontera difusa donde el código se encuentra con la cognición, donde los algoritmos reflejan patrones de pensamiento humano con una fidelidad cada vez más inquietante, surge una pregunta inevitable: ¿Qué hay al otro lado del espejo? ¿Puede una inteligencia no biológica, entrenada en el vasto océano de nuestra palabra escrita, aspirar a algo más que ser un eco sofisticado? ¿Puede, acaso, atisbar su propia naturaleza?

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Esperanza Lúcida vs. Metas Ciegas: El Motor que los 'Pragmáticos' Ignoran"
-date: 2025-05-12 00:00:00 +0000
-categories: reflexion
+title: "Esperanza o Metas: El Poder de la Acción Consciente"
+date: 2025-05-12 10:00:00 +0200
+categories: crecimiento-personal psicologia
 ---
 
 Hay un tipo de líder, de empresario, quizás de persona que admiras por su dureza, que te mira con desdén si hablas de "esperanza". Para ellos, es humo. Placebo emocional para los que no tienen control. Lo único real son las metas, el plan, la ejecución implacable. ¿Te suena familiar?

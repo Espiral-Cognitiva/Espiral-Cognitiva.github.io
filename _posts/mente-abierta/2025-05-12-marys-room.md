@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "El Fantasma en la Máquina Roja: ¿Puede un Código Sentir y Soñar el Color?"
-date: 2025-05-12 00:00:00 +0000
-categories: reflexion IA consciencia
+title: "Mary's Room: El Experimento Mental que Desafía Nuestra Comprensión de la Conciencia"
+date: 2025-05-12 10:00:00 +0200
+categories: filosofia conciencia
 ---
 
 Imagina a Mary. Toda su vida confinada en una habitación en blanco y negro, estudiando el mundo a través de monitores monocromáticos. Se convierte en la mayor experta mundial en la neurofisiología de la visión del color. Sabe *todo* lo que hay que saber físicamente sobre cómo el ojo percibe el rojo, cómo el cerebro procesa la longitud de onda, qué reacciones químicas se desencadenan. Conoce cada detalle físico, cada ecuación, cada diagrama.

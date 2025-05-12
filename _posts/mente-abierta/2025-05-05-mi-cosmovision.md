@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Mi Cosmovisión: Un Marco para Entender la Realidad"
+date: 2025-05-05 10:00:00 +0200
+categories: filosofia reflexion
+---
+
 # Mi cosmovisión: Quema tus mapas, hereda tus alas, contagia futuros imposibles
 
 **¿Estás perdido? Bien.** Es el primer paso.

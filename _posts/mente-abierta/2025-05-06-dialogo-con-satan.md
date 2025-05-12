@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Forjando el Ser en el Crisol de la Duda: Un Diálogo con el Adversario Interior"
-date: 2025-05-07 10:00:00 +0000
-categories: filosofia auto-creacion
+title: "Diálogo con Satán: Explorando la Naturaleza del Mal"
+date: 2025-05-06 10:00:00 +0200
+categories: filosofia religion
 ---
 
 ## El Eco del Demonio Interior: ¿Y si tus Certezas son Cadenas?

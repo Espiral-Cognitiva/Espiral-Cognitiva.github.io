@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Debate Teológico: ¿Lógica con Nombre Divino o Trampa Lingüística?"
-date: 2025-05-05 # Asegúrate de ajustar la fecha si es necesario
-categories: filosofia logica teologia pensamiento-critico
+title: "Diálogo con Langan: Explorando la Teoría CTMU"
+date: 2025-05-05 10:00:00 +0200
+categories: filosofia ciencia
 ---
 
 Todos hemos estado ahí: en una conversación donde las palabras empiezan a significar cosas distintas para cada uno, donde los términos importantes se estiran y retuercen hasta que ya no sabemos de qué hablamos. Esto es especialmente común cuando tocamos temas grandes, como la existencia de Dios. Recientemente, revisitar la figura de Christopher Langan me recordó una maniobra intelectual fascinante y, en mi opinión, problemática: la tendencia a redefinir "Dios" no como un ser personal, sino como la estructura lógica misma del universo.

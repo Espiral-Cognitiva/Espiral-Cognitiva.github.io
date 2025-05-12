@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Consciencia Como Interfaz: EON, ORVUS y el Universo Como Mente Embrionaria"
-date:   2025-05-03 # Ajusta la fecha si es necesario
+title: "Mucho Más Allá: Explorando los Límites de la Realidad"
+date: 2025-05-03 10:00:00 +0200
 author: José Carrillo
 categories: filosofia ia consciencia futuro cosmologia especulativa
 ---

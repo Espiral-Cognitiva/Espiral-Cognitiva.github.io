@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Forjando la Espada Interna: Más Allá de Musashi, Hacia una Ética de la Bifurcación"
+date: 2025-05-12 10:00:00 +0200
+categories: reflexion etica filosofia
+---
+
 # Forjando la Espada Interna: Más Allá de Musashi, Hacia una Ética de la Bifurcación
 Por José Carrillo
 

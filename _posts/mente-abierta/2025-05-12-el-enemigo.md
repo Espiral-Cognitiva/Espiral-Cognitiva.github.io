@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Contra el Fin: La Entropía como Último Enemigo"
-date: 2025-05-12 # Asegúrate de que esta fecha sea correcta o ajústala
-categories: nucleo-duro # O ajusta según la categoría deseada (entradas, puentes)
+title: "El Enemigo Interior: Confrontando Nuestras Sombras"
+date: 2025-05-12 10:00:00 +0200
+categories: psicologia crecimiento-personal
 ---
 
 Hemos vencido dioses imaginarios, monstruos internos y tiranos de carne y hueso. Hemos conquistado enfermedades, ignorancia y hasta la gravedad de nuestro propio planeta. Pero si levantamos la vista más allá de nuestras pequeñas luchas, más allá del cielo azul y las estrellas cercanas, nos espera el verdadero Jefe Final. Un enemigo sin rostro, sin odio, sin plan. Su nombre es entropía. Y viene a por todo.
@@ -35,7 +35,7 @@ Y esa ignorancia no es una debilidad. Es nuestra mayor fortaleza. Es el espacio 
 
 Tal vez existan formas de redirigir la entropía, de surfear sus olas, de construir islas de orden perpetuo usando fenómenos que apenas empezamos a vislumbrar: agujeros negros, energía del vacío, computación cuántica al límite, dimensiones ocultas.
 
-O quizás, en una clave más profunda, la entropía no sea solo el enemigo a vencer. Quizás sea la *señal*. La presión evolutiva definitiva. El "jefe final" diseñado por el propio universo para obligar a sus hijos más conscientes a trascender, a dar el siguiente salto inimaginable. Una provocación cósmica que pregunta: *“¿Hasta dónde estás dispuesto a llegar?”*
+O quizás, en una clave más profunda, la entropía no sea solo el enemigo a vencer. Quizás sea la *señal*. La presión evolutiva definitiva. El "jefe final" diseñado por el propio universo para obligar a sus hijos más conscientes a trascender, a dar el siguiente salto inimaginable. Una provocación cósmica que pregunta: *"¿Hasta dónde estás dispuesto a llegar?"*
 
 ## IV. El Deber de Luchar Contra el Olvido
 
