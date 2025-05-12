@@ -50,6 +50,20 @@
         - "Ley de Murphy inversa: Forjando la Realidad con la Ley Inversa"
         - "Midiendo la consciencia: ¿En Qué Nivel de Consciencia Operas (y Cómo Hackearlo)?"
 
+        **Series y Colecciones:**
+        - Mantener consistencia en la estructura de la primera parte
+        - La segunda parte puede variar pero debe mantener un patrón reconocible
+        - Ejemplos:
+          - "Diálogo con X: [Tema Principal]"
+          - "Manifiesto X: [Concepto Central]"
+
+        **Separadores:**
+        - Usar ":" como separador principal entre las dos partes
+        - Las preguntas siempre van después de los dos puntos
+        - Ejemplos:
+          - "Título: ¿Pregunta Provocadora?"
+          - "Título: Afirmación Desafiante"
+
     *   **Primer Párrafo (Gancho):** Crea una frase o párrafo potente que plantee el dilema central, la tensión o la promesa del texto. Debe enganchar de inmediato. Adapta la universalidad o confrontación del gancho según el nivel de audiencia inferido o especificado.
 
 2.  **Desarrollo Profundo y Conectado**

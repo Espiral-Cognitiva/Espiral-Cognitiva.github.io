@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Esperanza Lúcida: El Arma Secreta (y Negada) del Líder Pragmatico"
+title: "Esperanza vs. Metas: El Arma Secreta (y Negada) del Líder Pragmatico"
 date: 2025-05-12 10:00:00 +0200
 categories: crecimiento-personal psicologia liderazgo filosofia apto-para-todos
 ---

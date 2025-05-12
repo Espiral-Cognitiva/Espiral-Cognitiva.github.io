@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuego en las Manos: El Arte (y Peligro) de Guiar a Otros"
+title: "Aprende a Enseñar: El Arte (y Peligro) de Guiar a Otros"
 subtitle: "Cuando tu verdad puede quemar en lugar de iluminar"
 date: 2025-05-05 10:00:00 +0200
 categories: educacion crecimiento-personal filosofia apto-para-todos

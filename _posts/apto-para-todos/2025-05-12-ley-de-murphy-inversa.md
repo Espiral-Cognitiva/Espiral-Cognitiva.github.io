@@ -1,5 +1,5 @@
 ---
-title: "Más Allá de Murphy: Forjando la Realidad con la Ley Inversa"
+title: "Ley de Murphy Inversa: Forjando la Realidad"
 date: 2025-05-12 # Mantengo la fecha original, puedes ajustarla
 categories: [reflexion, filosofia-pragmatica, apto-para-todos] # Sugerencia de categorías
 tags: [ley-de-murphy, solucion-de-problemas, persistencia, responsabilidad, estoicismo-pragmatico] # Sugerencia de etiquetas

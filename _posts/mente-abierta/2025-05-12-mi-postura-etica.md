@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Forjando la Espada Interna: Más Allá de Musashi, Hacia una Ética de la Bifurcación"
+title: "Código Ético: Más Allá de Musashi, Hacia una Ética de la Bifurcación"
 date: 2025-05-12 10:00:00 +0200
 categories: reflexion etica filosofia liderazgo psicologia crecimiento-personal mente-abierta
 ---
 
-# Forjando la Espada Interna: Más Allá de Musashi, Hacia una Ética de la Bifurcación
+# Código Ético: Más Allá de Musashi, Hacia una Ética de la Bifurcación
 Por José Carrillo
 
 *"Desprecio por la autoindulgencia."*
