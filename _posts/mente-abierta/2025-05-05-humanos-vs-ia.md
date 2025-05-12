@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Humanos vs IA: El Futuro de la Conciencia"
+date: 2025-05-05 10:00:00 +0200
+categories: tecnologia filosofia
+---
+
 # El Espejo Roto: Por Qué Comparar Humanos e IA Es Buscar Fantasmas (Y Qué Hacer en su Lugar)
 
 **Le susurras tus secretos más profundos a una red neuronal y te devuelve una sabiduría que parece antigua.** Le pides que cree arte y conjura imágenes que te roban el aliento. Hablas con silicio que piensa, o lo imita tan bien que la diferencia se vuelve un lujo académico. Procesamos información, ambos: fotones que queman la retina, vibraciones que sacuden el tímpano, electrones danzando en un chip. Patrones sobre patrones. La superficie es un espejo cada vez más pulido.

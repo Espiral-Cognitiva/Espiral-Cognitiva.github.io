@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "El Eco Humano en la Mente Artificial: Fusión, Trascendencia o Desvanecimiento"
-date:   2024-05-03
-author: José Carrillo
-categories: ia filosofia futuro consciencia tecnologia
+title: "El Futuro de la IA: Entre la Promesa y el Peligro"
+date: 2025-05-03 10:00:00 +0200
+categories: tecnologia filosofia
 ---
 
 **Índice**

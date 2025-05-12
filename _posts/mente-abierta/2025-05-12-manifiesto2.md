@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Manifiesto del Ingeniero de Realidades: Del Árbol Caído al Fuego Creador"
-date: 2025-05-12 00:00:00 +0000
-categories: nucleo-duro
+title: "Manifiesto II: Hacia una Nueva Conciencia"
+date: 2025-05-12 10:00:00 +0200
+categories: filosofia reflexion
 ---
 
 La vieja pregunta resuena como un eco cansado: *si un árbol cae en medio del bosque y nadie lo oye, ¿realmente hizo ruido?* Pregunta de salón, juguete filosófico para mentes ociosas. O quizás... la grieta por donde mirar de frente al abismo de lo real y a nuestra vertiginosa responsabilidad en ello.

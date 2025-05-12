@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Si la Resurrección Fue un Hack, ¿Cuál Es Tu Código de Salida?"
-author: "José Carrillo (Espiral Cognitiva)"
-date: "2025-05-07" # Fecha actualizada o la que prefieras
-categories: reflexion filosofia espiritualidad
+title: "Diálogo con Jesús: Reflexiones sobre la Fe y la Humanidad"
+date: 2025-05-06 10:00:00 +0200
+categories: religion filosofia
 # Puedes añadir más categorías o tags si lo deseas
 ---
 

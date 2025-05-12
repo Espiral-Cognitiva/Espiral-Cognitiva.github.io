@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Aprender a Enseñar: El Arte de la Transmisión de Conocimiento"
+date: 2025-05-05 10:00:00 +0200
+categories: educacion crecimiento-personal
+---
+
 # Tenías Fuego en las Manos y Solo Sabías Quemar: La Paradoja de la Guía Fallida
 
 **Forjaste una cosmovisión en las entrañas de tu propia batalla.** Destilaste principios, quemaste mapas obsoletos, encontraste una claridad que ardía, que te impulsaba. Sentiste el poder crudo de una filosofía cincelada a golpes de realidad, duda y voluntad. Tienes fuego en las manos. Una verdad incandescente que, estás convencido, podría cambiarlo todo.

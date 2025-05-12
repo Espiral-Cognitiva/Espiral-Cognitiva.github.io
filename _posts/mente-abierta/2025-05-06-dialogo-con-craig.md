@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Ante el Abismo: Un Asalto Filosófico a las Certezas Prefabricadas"
-date: 2025-05-06
-categories: filosofia pensamiento-critico
+title: "Diálogo con Craig: Reflexiones sobre la Existencia"
+date: 2025-05-06 10:00:00 +0200
+categories: filosofia
 ---
 
 Te encuentras ante una mente disciplinada, un arquitecto de argumentos que ha dedicado su vida a construir una fortaleza para la fe usando los ladrillos de la lógica. Hablo de figuras como William Lane Craig, el conocido teólogo y filósofo, campeón del argumento cosmológico Kalam: *todo lo que comienza a existir tiene una causa; el universo comenzó a existir; por lo tanto, el universo tiene una causa*. Una causa que él, con pulcritud académica, identifica con un Dios personal, creador, atemporal, inmaterial, y omnipotente.

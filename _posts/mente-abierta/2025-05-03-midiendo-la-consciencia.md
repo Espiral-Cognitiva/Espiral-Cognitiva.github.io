@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "¿Qué es la consciencia? Una escala de autoengaño recursivo y diseño del yo"
-date:   2024-05-03
-author: José Carrillo
-categories: filosofia ia consciencia
+title: "Midiendo la Consciencia: El Desafío de la Ciencia"
+date: 2025-05-03 10:00:00 +0200
+categories: ciencia filosofia
 ---
 
 **Índice**

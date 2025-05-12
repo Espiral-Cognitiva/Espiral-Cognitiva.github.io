@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "El Feedback del Diablo: ¿Y Si la Oscuridad También Enseña?"
-author: "José Carrillo (Espiral Cognitiva)"
-date: "2025-05-08" # Fecha actualizada o la que prefieras
-categories: reflexion filosofia etica oscuridad
+title: "Diálogo con Jesús sobre Satán: Una Conversación sobre el Bien y el Mal"
+date: 2025-05-06 10:00:00 +0200
+categories: religion filosofia
 # Puedes añadir más categorías o tags si lo deseas
 ---
 
