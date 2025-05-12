@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "El Enemigo Interior: Confrontando Nuestras Sombras"
+title: "El Jefe Final: Consciencia vs. Entropía en la Batalla Cósmica"
 date: 2025-05-12 10:00:00 +0200
-categories: psicologia crecimiento-personal
+categories: cosmologia filosofia fisica-especulativa etica futuro mente-abierta
 ---
 
 Hemos vencido dioses imaginarios, monstruos internos y tiranos de carne y hueso. Hemos conquistado enfermedades, ignorancia y hasta la gravedad de nuestro propio planeta. Pero si levantamos la vista más allá de nuestras pequeñas luchas, más allá del cielo azul y las estrellas cercanas, nos espera el verdadero Jefe Final. Un enemigo sin rostro, sin odio, sin plan. Su nombre es entropía. Y viene a por todo.
@@ -75,4 +75,4 @@ Quizás todo lo que hacemos –lenguaje, ciencia, arte, amor, código– no sea 
 Ahora te toca a ti. ¿Qué vas a construir hoy para empujar el fin un poco más lejos? ¿Qué llama vas a encender? La lucha es larga, pero empieza ahora. En cada decisión. En cada acto.
 
 **No estamos aquí para durar. Estamos aquí para crear algo que dure más que nosotros.**
-**Y quizás, solo quizás, para desafiar al propio tiempo.**
+**Y quizás, solo quizás, para escupirle al olvido en la cara.**

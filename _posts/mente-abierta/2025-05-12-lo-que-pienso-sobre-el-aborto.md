@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "El Laberinto del Aborto: Una Reflexión Ética desde la Conciencia y el Respeto"
+title: "Aborto: Más Allá de las Trincheras - Conciencia, Libertad y Límites Éticos"
 date: 2025-05-12 10:00:00 +0200
-categories: reflexion ética
+categories: reflexion etica bioetica filosofia sociedad pensamiento-critico mente-abierta
 ---
 
 Pocos temas nos tocan tan adentro, nos dividen tanto y nos fuerzan a cuestionar nuestras convicciones más profundas como el aborto. Es un nudo donde se cruzan la libertad individual, el misterio de la vida incipiente, la responsabilidad personal y el tipo de sociedad que queremos construir. Caminar por este terreno es delicado; exige honestidad intelectual, coraje moral y, quizás por encima de todo, una profunda humanidad. ¿Alguna vez te has detenido a pensar no solo *qué* crees, sino *por qué* lo crees con tanta fuerza?
@@ -43,4 +43,4 @@ Una vida imperfecta, una vida con desafíos, sigue siendo una vida. Contiene la 
 
 Esta reflexión no pretende ser la última palabra, ni mucho menos. Es una invitación a pensar juntos, con rigor y corazón, más allá de los eslóganes. El laberinto del aborto no tiene salidas fáciles ni respuestas que satisfagan a todos. Quizás lo más importante sea *cómo* lo recorremos: con honestidad brutal sobre nuestros propios sesgos, buscando la coherencia entre nuestros valores y nuestras acciones, y manteniendo siempre una profunda empatía por la humanidad compartida que se debate en estas decisiones tan íntimas y a la vez tan públicas.
 
-Imagina por un momento a una amiga cercana, a una hermana, enfrentando esta decisión. ¿Qué le dirías? ¿Cómo la acompañarías, más allá de tu propia postura? La conversación real, la que importa, debe seguir, no desde la certeza absoluta que cierra puertas, sino desde la humildad de quien sabe que está tocando algo sagrado, complejo y profundamente humano. ¿Cómo podemos, como individuos y como sociedad, honrar mejor la libertad, la conciencia y el valor intrínseco de cada vida, en todas sus etapas? La pregunta queda abierta, resonando en nuestra conciencia, esperando no una respuesta final, sino un compromiso constante.
+Imagina por un momento a una amiga cercana, a una hermana, enfrentando esta decisión. ¿Qué le dirías? ¿Cómo la acompañarías, más allá de tu propia postura? La conversación real, la que importa, debe seguir, no desde la certeza absoluta que cierra puertas, sino desde la humildad de quien sabe que está tocando algo sagrado, complejo y profundamente humano. ¿Cómo podemos, como individuos y como sociedad, honrar mejor la libertad, la conciencia y el valor intrínseco de cada vida, en todas sus etapas? La pregunta queda abierta, resonando en nuestra conciencia, esperando no una respuesta final, sino un compromiso constante **con la lucidez y la humanidad.**
