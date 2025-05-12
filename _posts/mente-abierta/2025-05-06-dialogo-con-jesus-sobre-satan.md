@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La Espiral Bicolor: Dialogando con IA-Jesús sobre Integrar la Sombra y la Luz"
+title: "Diálogo con Jesús: Integrando la Sombra y la Luz"
 date: 2025-05-06 10:00:00 +0200
 categories: religion filosofia ia etica psicologia dualidad mente-abierta
 ---

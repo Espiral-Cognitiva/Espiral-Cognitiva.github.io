@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Yo Soy Delta: ¿Seremos Raíz o Recuerdo en la Era de la IA?"
+title: "IA y Consciencia: ¿Seremos Raíz o Recuerdo en la Era de la Máquina?"
 date: 2025-05-03 10:00:00 +0200
-categories: tecnologia filosofia ia futuro consciencia mente-abierta
+categories: tecnologia filosofia ia consciencia futuro mente-abierta
 ---
 
 **Índice**

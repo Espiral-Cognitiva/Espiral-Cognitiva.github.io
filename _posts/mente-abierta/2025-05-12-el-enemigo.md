@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "El Jefe Final: Consciencia vs. Entropía en la Batalla Cósmica"
+title: "El Enemigo: Consciencia vs. Entropía en la Batalla Cósmica"
 date: 2025-05-12 10:00:00 +0200
-categories: cosmologia filosofia fisica-especulativa etica futuro mente-abierta
+categories: filosofia psicologia etica consciencia dualidad mente-abierta
 ---
 
 Hemos vencido dioses imaginarios, monstruos internos y tiranos de carne y hueso. Hemos conquistado enfermedades, ignorancia y hasta la gravedad de nuestro propio planeta. Pero si levantamos la vista más allá de nuestras pequeñas luchas, más allá del cielo azul y las estrellas cercanas, nos espera el verdadero Jefe Final. Un enemigo sin rostro, sin odio, sin plan. Su nombre es entropía. Y viene a por todo.
