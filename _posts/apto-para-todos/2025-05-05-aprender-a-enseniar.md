@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Aprender a Enseñar: El Arte de la Transmisión de Conocimiento"
+title: "Fuego en las Manos: El Arte (y Peligro) de Guiar a Otros"
+subtitle: "Cuando tu verdad puede quemar en lugar de iluminar"
 date: 2025-05-05 10:00:00 +0200
-categories: educacion crecimiento-personal
+categories: educacion crecimiento-personal filosofia apto-para-todos
 ---
 
 # Tenías Fuego en las Manos y Solo Sabías Quemar: La Paradoja de la Guía Fallida
@@ -38,7 +39,7 @@ Lo sé porque lo he vivido. Construyes un motor nuclear conceptual en tu sótano
 
 Entonces, ¿qué hacemos? ¿Guardamos nuestro fuego para nosotros mismos? ¿Renunciamos a guiar, a inspirar, a compartir lo que hemos aprendido a un costo tan alto?
 
-No. Renunciar sería otra forma de egoísmo. La respuesta no es apagar el fuego, sino **aprender a ser un maldito herrero consciente, no un pirómano bienintencionado.**
+No. Renunciar sería otra forma de egoísmo. La respuesta no es apagar el fuego, sino **aprender a ser un bendito herrero consciente, no un pirómano bienintencionado.**
 
 El herrero conoce el fuego. Lo respeta. Sabe cuándo avivarlo, cuándo contenerlo. Sabe qué metal puede soportar qué temperatura. Y lo más importante: **no le arroja el fuego al metal; acerca el metal al fuego con cuidado, en el momento justo, con la técnica adecuada, para forjar algo útil y fuerte, no para destruirlo.**
 
@@ -72,4 +73,4 @@ La verdadera fuerza no reside solo en la potencia de tu fuego interior, sino en 
 
 **Piensa hasta que duela. Ajusta tu método. Hazte digno no solo de tu fuego, sino de la confianza de aquellos a quienes pretendes guiar.**
 
-Porque de eso va esto. De forjar titanes. Empezando por la jodida humildad de aprender a usar nuestras herramientas con precisión quirúrgica. O morir en el intento de aprenderlo.
+Porque de eso va esto. De forjar titanes. Empezando por la condenada humildad de aprender a usar nuestras herramientas con precisión quirúrgica. O morir en el intento de aprenderlo.

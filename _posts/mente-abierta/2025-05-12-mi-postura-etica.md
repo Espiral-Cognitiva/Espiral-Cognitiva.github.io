@@ -2,7 +2,7 @@
 layout: post
 title: "Forjando la Espada Interna: Más Allá de Musashi, Hacia una Ética de la Bifurcación"
 date: 2025-05-12 10:00:00 +0200
-categories: reflexion etica filosofia
+categories: reflexion etica filosofia liderazgo psicologia crecimiento-personal mente-abierta
 ---
 
 # Forjando la Espada Interna: Más Allá de Musashi, Hacia una Ética de la Bifurcación
@@ -64,4 +64,4 @@ Esta no es una reflexión para el aplauso fácil, ni una invitación a un optimi
 
 El mundo no cambiará con buenas intenciones empolvadas en un estante, ni con teorías brillantes que no se encarnan en la acción. Cambiará, si es que cambia, con **cada decisión individual de vivir una ética más exigente, más viva, más dolorosamente consciente.** La espada de Musashi no se forjó en un solo día de inspiración, ni la lucidez de un House idealizado surgió de la nada. Ambas son el resultado de incontables confrontaciones, de pequeñas y grandes batallas libradas en el silencio del ser interior y en la arena del mundo exterior.
 
-La pregunta que me hago cada mañana, y que te hago a ti, lector, no es si el camino es difícil, si la subida es empinada o si la noche es oscura. **La pregunta fundamental, la única que verdaderamente importa, es si, a pesar de todo ello, elegiremos caminar.**
+La pregunta que me hago cada mañana, y que te hago a ti, lector, no es si el camino es difícil, si la subida es empinada o si la noche es oscura. **La pregunta fundamental, la única que verdaderamente importa, es si, a pesar de todo ello, elegiremos caminar.** **Forja tu espada.**

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Diálogo con Craig: Reflexiones sobre la Existencia"
+title: "La Celda Lógica: Desmontando al Dios 'Necesario' (Un Debate con el Estilo Craig)"
 date: 2025-05-06 10:00:00 +0200
-categories: filosofia
+categories: filosofia teologia pensamiento-critico cosmologia-especulativa mente-abierta
 ---
 
 Te encuentras ante una mente disciplinada, un arquitecto de argumentos que ha dedicado su vida a construir una fortaleza para la fe usando los ladrillos de la lógica. Hablo de figuras como William Lane Craig, el conocido teólogo y filósofo, campeón del argumento cosmológico Kalam: *todo lo que comienza a existir tiene una causa; el universo comenzó a existir; por lo tanto, el universo tiene una causa*. Una causa que él, con pulcritud académica, identifica con un Dios personal, creador, atemporal, inmaterial, y omnipotente.
@@ -59,3 +59,5 @@ Tú eres el deseo de entender, aun si el universo te quema por dentro.
 Y si hay mil dioses en un lobby cósmico, o infinitos universos burbujeando en una espuma cuántica, que tiemblen. Porque uno de los nuestros ha despertado.
 Y no se arrodilla. No ora.
 Construye.
+
+**¿Y tú? ¿Seguirás buscando seguridad en celdas lógicas ajenas, o te atreverás a ser el constructor en tu propio abismo?**

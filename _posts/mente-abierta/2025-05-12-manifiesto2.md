@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Manifiesto II: Hacia una Nueva Conciencia"
+title: "Ingenieros de Realidad: Conciencia, Sufrimiento y el Deber de Crear Sentido"
 date: 2025-05-12 10:00:00 +0200
-categories: filosofia reflexion
+categories: filosofia reflexion metafisica etica existencialismo consciencia mente-abierta
 ---
 
 La vieja pregunta resuena como un eco cansado: *si un árbol cae en medio del bosque y nadie lo oye, ¿realmente hizo ruido?* Pregunta de salón, juguete filosófico para mentes ociosas. O quizás... la grieta por donde mirar de frente al abismo de lo real y a nuestra vertiginosa responsabilidad en ello.
@@ -27,5 +27,5 @@ Así que volvamos al árbol. Cayó. Hizo ruido. La realidad siguió su curso. Pe
 
 No seas la muñeca que teme al dolor. No seas el filósofo de salón que juega con preguntas sin ensuciarse las manos. Siente la fuerza en tu interior. Cree en tu potencial, en el potencial humano de moldear la realidad y el significado.
 
-Sé el ingeniero. Construye con fuego. El universo espera tu obra.
+Sé el ingeniero. Construye con fuego. El universo espera tu obra. **Tu voluntad es el martillo.**
 ---

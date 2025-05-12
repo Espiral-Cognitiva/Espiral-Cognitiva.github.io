@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Diálogo con Satán: Explorando la Naturaleza del Mal"
+title: "Café con el Adversario: Demoliendo tus Certezas (Un Diálogo Infernal)"
 date: 2025-05-06 10:00:00 +0200
-categories: filosofia religion
+categories: filosofia religion psicologia etica pensamiento-critico existencialismo mente-abierta
 ---
 
 ## El Eco del Demonio Interior: ¿Y si tus Certezas son Cadenas?
