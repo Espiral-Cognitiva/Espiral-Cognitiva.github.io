@@ -8,14 +8,19 @@ Basado en nuestra conversación, este es un resumen detallado de los componentes
 *   **Modelo:** Celica
 *   **Generación:** 7ma Generación
 *   **Año:** 2004
-*   **Código de Chasis:** `ZZT231`
-*   **País de Origen Original:** Japón (JDM - implica timón derecho original)
-*   **Condición SUNARP:** Reacondicionado (Importado de segunda mano)
+*   **Código de Chasis:** `TA-ZZT231` (Identifica la séptima generación con motor 2ZZ-GE)
+*   **Origen y Conversión:**
+    *   **País de Origen:** Japón (JDM - Japanese Domestic Market)
+    *   **Configuración Original:** RHD (Right Hand Drive - Timón derecho)
+    *   **Estado Actual:** Convertido a LHD (Left Hand Drive - Timón izquierdo)
+    *   **Condición SUNARP:** Reacondicionado (Importado de segunda mano)
 *   **Placa:** `X1R575`
 *   **Color 1:** PLATA
 *   **Tipo Uso:** Vehículos Particulares (Categoría M1)
-*   **Tipo:** COUPE
-*   **N° Asientos / N° Pasajer.:** 3 / 3
+*   **Tipo:** Coupé Liftback (3 puertas: 2 laterales + portón trasero)
+*   **Plazas:** 4 (2+2: dos delanteras y dos traseras)
+*   **Dimensiones:** 4,335 × 1,735 × 1,305 mm
+*   **Peso:** ~1,160 kg
 
 ## Tren Motriz y Performance
 
@@ -23,13 +28,15 @@ Basado en nuestra conversación, este es un resumen detallado de los componentes
     *   **N° Motor:** `2ZZ0137620` (Registrado en SUNARP)
     *   **Configuración:** `1.8L` (1795 cc), 4 cilindros en línea, DOHC, 16 válvulas
     *   **Sistema Variable:** VVTL-i (VVT + Lift)
-    *   **Potencia Oficial (Fábrica):** 192 hp @ `7600 rpm`
+    *   **Potencia Oficial (Fábrica):** 190 PS (140 kW) @ `7600 rpm`
     *   **Torque Oficial (Fábrica):** 180 Nm @ `6800 rpm`
+    *   **Origen del Motor:** Co-desarrollado y fabricado en Japón (Toyota & Yamaha)
     *   **Corte de Inyección (Rev Limiter):** `~8200 rpm` (Protegido)
     *   **Activación Lift:** Entre `6000–6200 rpm` (Según manual y conversación), requiere temperatura de refrigerante ≥60°C y suficiente presión de aceite.
     *   **Combustible:** GASOLINA (Premium / alto octanaje - usado por ti)
     *   **Ralentí:** Ligeramente inestable, casi imperceptible (Observación tuya)
-*   **Transmisión:** Manual de 5 velocidades
+*   **Transmisión:** Manual de 5 velocidades (SS-II JDM)
+    *   **Nota:** La variante SS-II JDM lleva de fábrica solo caja manual de 5 velocidades, mientras que en exportación (GT-S/T-Sport) se ofrecía opcionalmente 6 velocidades
     *   **Código Estimado:** `C59`
     *   **Shifter (Palanca de cambios):**
         *   No regresa al centro por sí sola (Problema reportado)
@@ -73,6 +80,15 @@ Basado en nuestra conversación, este es un resumen detallado de los componentes
         *   Revisaste el mecanismo interno y el cristal, no ves nada raro (Acción tuya/Confirmación).
         *   **Diagnóstico:** Probable espejo de lado izquierdo diseñado para auto RHD (timón derecho), o motor/mecanismo interno dañado/limitado de otra forma.
     *   **Espejo Derecho (Copiloto):** Tiene tornillos externos que impiden su movimiento completo (Observación tuya).
+*   **Vestigios de Conversión RHD→LHD:**
+    *   **Interior:**
+        *   Palanca de intermitentes en lado derecho (stalk japonés original)
+        *   Botones de ventanillas operan invertidos (no recableados en la conversión)
+        *   Cluster de instrumentos JDM en km/h con tope a 180 km/h
+    *   **Exterior:**
+        *   Espejo izquierdo conserva ángulo de RHD sin recablear
+        *   Posibles ajustes en la suspensión/alineación para compensar el cambio de lado
+    *   **Nota:** Estos vestigios son normales en conversiones RHD→LHD y no afectan la seguridad o funcionamiento del vehículo
 *   **Timón:** Se siente como un poquito oxidado o con fricción interna al girar (Observación tuya).
 *   **Hebilla de Cinturón:** La del lado del pasajero se va hasta el piso, es incómodo jalarla (Observación tuya).
 *   **Estética:**
@@ -90,7 +106,7 @@ Basado en nuestra conversación, este es un resumen detallado de los componentes
 
 ## Información del Manual (Extracto)
 
-*   **Título:** “Toyota Celica Shop Manual Vol. 1”
+*   **Título:** "Toyota Celica Shop Manual Vol. 1"
 *   **Mercado:** Sugiere ser para mercado estadounidense o internacional (Inglés).
 *   **Secciones Relevantes:** Especificaciones técnicas, Mantenimiento recomendado (cambio de fluidos, filtros, bujías, inspecciones), Transmisiones manuales C56 y C60 (detalladas), Sistema VVTL-i/Lift (condiciones de activación, errores OCV), Códigos de motor y transmisión (2ZZ-GE, C56, C60).
 *   **Información no encontrada en extracto:** Presiones de neumáticos, pesos, consumos y capacidades (Suelen estar en otra sección/volumen).
