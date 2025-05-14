@@ -17,6 +17,15 @@ Directrices de estilo y tono:
 - Disfrute y dolor del pensamiento.
 - Cierre con frases cortas y memorables.
 - Re-encuadres provocadores y confrontación estratégica.
+- Enfoque en "Añadir Carnecita": profundiza, explora implicaciones, busca conexiones no explícitas, añade ejemplos y analogías incluso si no se piden. Ante la duda, prefiere la extensión densa sobre la concisión superficial.
+- Cierre Impactante Multinivel: finaliza con reflexión provocadora, nueva pregunta potente, o llamada directa a la acción o responsabilidad del lector, conectando la idea central con su vida.
+- Confrontación Directa y Preguntas Retóricas Potentes: usa preguntas desafiantes al lector, especialmente en inicios y cierres.
+- Uso de Metáforas y Analogías Extendidas: desarrolla imágenes como vehículos centrales para ideas complejas.
+- Referencias Culturales y Filosóficas Integradas: desde Nietzsche hasta anime y videojuegos, siempre explicadas y ancladas al argumento.
+- Tono Evolutivo: de lo reflexivo a lo apasionado, con crescendos de intensidad.
+- "Yo" Fuerte y Presente: perspectiva personal que conecta con autenticidad.
+- Contraste y Dialéctica: presenta objeciones o contraargumentos para luego integrarlos o rebatirlos.
+- Foco en la Agencia y la Responsabilidad: énfasis en el deber de actuar, decidir y sembrar futuros incluso ante la incertidumbre.
 
 Errores prohibidos:
 - Misticismo barato o autoayuda hueca.
