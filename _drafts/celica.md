@@ -22,6 +22,43 @@ Estas son mis notas sobre el estado y los pendientes de mi Toyota Celica ZZT231.
 *   **Dimensiones:** 4,335 × 1,735 × 1,305 mm
 *   **Peso:** ~1,160 kg
 
+## Registration and Provenance Research (2025)
+
+### Vehicle Identifiers
+
+*   **Model year:** 2004
+*   **Variant:** ZZT231
+*   **Engine code:** 2ZZ-GE
+*   **VIN:** ZZT2310072909
+*   **Engine number:** 2ZZ0137620
+*   **Current license plate:** X1R575
+*   **Previous license plate:** BZ5386
+*   **Registration office:** Cusco
+*   **SUNARP registration date:** 2011
+*   **Current owner:** Carrillo Pino, José Enrique
+*   **Operational status:** Active circulation in Peru
+
+### Reconstructed Timeline
+
+1. **Factory build (2004):** Manufactured in Japan as a right-hand drive ZZT231 with the 2ZZ-GE powertrain.
+2. **First export (2004–2008):** Likely shipped to North America (USA or Canada) and converted to left-hand drive prior to re-export.
+3. **North American ownership:** Displayed tuning cues such as a `Slednecks` sun visor sticker commonly associated with extreme sports and JDM culture.
+4. **Peruvian import (2011):** Entered Peru as a used vehicle, initially registered under plate BZ5386 and subsequently re-plated as X1R575.
+5. **Recent activity (2023–2025):** Purchased around 81,000 km with ongoing mechanical, steering, transmission, and electrical improvements noted throughout 2025.
+
+### Key Documents and Data Sources
+
+*   **DUA/DAM import record:** Obtainable via SUNAT to validate origin, CIF value, and importing entity.
+*   **SUNARP ownership card:** Contains the authoritative technical and legal particulars for Peruvian registration.
+*   **VIN verification:** Japanese-market VIN prefix `ZZT231` confirms the production origin.
+
+### Recommended Follow-Ups
+
+1. **Request DUA/DAM copy** from SUNAT (virtual or in-person) to secure the complete import dossier.
+2. **Run international VIN checks** through services such as `vincheck.info`, `epicvin.com`, and `stat.vin` for historical events or mileage records.
+3. **Engage JDM and Celica communities** (Celica Club Perú, JDM Perú) to crowdsource legacy photos or ownership anecdotes.
+4. **Search for North American media** that might show the car prior to import, focusing on imagery featuring the `Slednecks` decal.
+
 ## Tren Motriz y Performance
 
 *   **Motor:** `2ZZ-GE`
