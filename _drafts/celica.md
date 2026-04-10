@@ -85,6 +85,8 @@ Estas son mis notas sobre el estado y los pendientes de mi Toyota Celica ZZT231.
         *   **Diagnóstico Mecánico:** Mecánico indica que debería ir soltando con el uso y tiempo.
         *   **Recomendación:** Monitorear evolución, considerar revisión adicional si no mejora en 1-2 semanas.
         *   **Diagnóstico Anterior:** Probable desgaste en bujes o cables del shifter.
+    *   **Aceite de caja (dic. 2025, Autoteam):** Fuga de **aceite de caja** / **retén palier** — **todo el trabajo en Autoteam** (Dani no intervino aquí). **Doble cambio** de aceite: primer drenado y llenado, **~500 km** de rodaje, segundo drenado y llenado. Producto: **Liqui Moly 75W-90**, **3 L** por servicio. Aceite retirado **muy negro y metalizado**. El tapón de drenaje **no tenía imán**; se instaló **tapón con imán**.
+    *   **Palier delantero izquierdo (dic. 2025, Autoteam):** Cambio de **fuelle (poncho)**, **grasa**, **retén** y **abrazaderas**.
 *   **Performance Estimada:**
     *   **0–100 km/h (Fábrica, condiciones ideales):** `~7.5` segundos (con Lift activo).
     *   **Mi prueba (factores adversos):** `~14` segundos (mala partida/patinaje, 3 pasajeros, cambio a 2da debajo de Lift RPM, llantas viejas).
@@ -163,9 +165,13 @@ Estas son mis notas sobre el estado y los pendientes de mi Toyota Celica ZZT231.
     *   **Implicación:** Sistema de airbags podría estar deshabilitado o fallando.
     *   **Recomendación:** Reemplazar componente faltante del airbag pasajero. Reparar urgentemente por seguridad.
 *   **Aire Acondicionado (A/C):**
-    *   **Síntoma:** No enfría. Al encenderlo en ralentí, las RPM caen drásticamente y luego se recuperan, cíclicamente.
-    *   **Posibles Causas:** Bajo nivel de gas refrigerante, compresor o embrague del compresor defectuoso, válvula IAC sucia o inoperativa.
-    *   **Recomendación:** Prueba de presión y recarga de gas, verificar compresor y embrague, limpiar o reemplazar válvula IAC.
+    *   **Síntoma (histórico):** Rendimiento de frío pobre. Al encenderlo en ralentí, las RPM caían y se recuperaban en ciclos (posible **bajo gas**, carga del compresor, **IAC** sucia o inoperativa).
+    *   **Actualización propietario (2026):** El A/C **sí funciona / enfría**; el relato de **compresor quemado** y cambio integral del sistema **no coincide** con la realidad — atribuido al **ex-taller Dani** (ver nota de talleres al final).
+    *   **Informe Autoteam (feb. 2026):** El compresor tiene **compresión** y se considera **operativo**. Problemas: **fuga de gas refrigerante aún no localizada** (afecta frío y calor) y **ventilador inoperativo** por **falla eléctrica**. El **cambio de timón (RHD→LHD)** complica el ramal en la **columna de dirección** (cableado alterado), dificultando identificar conexiones mal hechas; eso **retrasa** inspección eléctrica y detección de fugas, porque **sin ventilador** no se simula bien el ciclo del sistema.
+    *   **Recomendación vigente:** Restaurar **ventilador** (alimentación/control); luego vacío, localizar fuga y recarga; revisar **IAC** si el ralentí sigue inestable con el A/C.
+*   **Capot (cerradura / gancho) — Autoteam / pendiente:**
+    *   **Síntoma:** **No abre bien**; en un momento **dejó de abrir**. El **gancho** parece **empalmado / arreglado de forma artesanal** en lugar de ir **correctamente acoplado** al mecanismo de fábrica.
+    *   **Acción:** Revisión en **Autoteam** (u otro taller de confianza): cerradura, cable, gancho y soporte; restaurar conexión correcta o piezas OEM/usado confiable.
 *   **Pedal de Clutch:**
     *   **Síntoma:** "Tope suave" inicial, recorrido adicional con más fuerza.
     *   **Acción:** Revisar y ajustar juego libre (`free play`) según manual. Purgar sistema hidráulico. Inspeccionar cilindro maestro/esclavo, mangueras, retenes.
@@ -181,8 +187,7 @@ Estas son mis notas sobre el estado y los pendientes de mi Toyota Celica ZZT231.
 *   **Barra de Estabilidad:** Tiene una delantera.
     *   **Marca Identificada:** "TopSpeed". Pieza aftermarket, no original Toyota ni TRD.
 *   **Equipo Multimedia:** `AUTO RADIO 7010B BLUETOOTH 7 PULGADAS MP5 TÁCTIL HANDSFREE SD USB` (actual).
-    *   **Cámara Trasera:** No se conecta al meter retro.
-    *   **Estado:** Pendiente revisión (programada para viernes).
+    *   **Cámara Trasera:** Antes **no** enlazaba al meter retro; **Dani lo corrigió** (época del rearmado de tablero / cableado). **Estado actual:** Conecta al retro.
 
 ## Historial de Mantenimiento y Uso
 
@@ -216,15 +221,11 @@ Estas son mis notas sobre el estado y los pendientes de mi Toyota Celica ZZT231.
         *   **Pendiente:**
             *   Asentado de válvulas para restaurar compresión.
             *   Proforma pendiente para trabajos adicionales.
-*   **Reparaciones Mayores Completadas (Mecánico Dani, 2025):**
+*   **Ex-taller Dani (Calle Paz Soldán, Miraflores, Arequipa, 2025) — registro histórico:** El propietario considera **posible estafa** (A/C y refrigerante mal informados, entre otros); **lleva tiempo sin respuesta** del taller. Lo siguiente es lo que constaba en su época; contrastar con **Autoteam** en revisiones futuras.
     *   **Cables del Shifter:**
         *   **Problema:** Cables muy largos, doblados y tocando escape (pelado).
         *   **Solución:** Se acortaron y reemplazaron los cables del shifter.
-        *   **Estado:** Corregido.
-    *   **Fuga de Retén Palier:**
-        *   **Problema:** Fuga en retén por el palier.
-        *   **Solución:** Se corrigió la fuga.
-        *   **Estado:** Corregido.
+        *   **Estado:** Corregido (según su trabajo).
     *   **Motor - Fuga Refrigerante Culata/Block:**
         *   **Problema:** Fuga de refrigerante entre culata y block.
         *   **Acciones Realizadas:**
@@ -233,22 +234,28 @@ Estas son mis notas sobre el estado y los pendientes de mi Toyota Celica ZZT231.
             *   Rectificación de los asientos de válvula.
             *   Cambio de empaques, aftermarket de buena calidad, marca AMC
             *   Limpieza de entradas de aire y salidas en la culata (eliminación de costra negra de suciedad).
-        *   **Estado:** Completado.
-    *   **Sistema de Refrigeración:**
-        *   **Acción:** Cambio completo de refrigerante.
-        *   **Nuevo Producto:** Motul (azul, de buena calidad).
-        *   **Estado:** Completado.
+        *   **Estado:** Completado (según su trabajo).
+    *   **Sistema de Refrigeración (relato Dani — desmentido en parte):**
+        *   **Dijo el taller:** Cambio completo de refrigerante; producto **Motul (azul)**.
+        *   **Hecho observado (2026, con Autoteam / inspección propia):** **Refrigerante verde**; no cuadra con el relato de fluido azul (mismo patrón que el A/C).
+        *   **Estado:** Culata/block intervenidos; **confirmar tipo/color** con Autoteam en próximo chequeo.
     *   **Sistema Eléctrico:**
         *   **Acción:** Desmontaje completo del tablero y rearmado.
         *   **Objetivo:** Arreglar problemas de cableado.
-        *   **Estado:** Completado.
-    *   **Aire Acondicionado (A/C):**
-        *   **Diagnóstico:** Compresor quemado, posible contaminación completa del sistema.
-        *   **Recomendación:** Cambio completo del sistema de A/C.
-        *   **Estado:** Diagnosticado, pendiente reparación.
+        *   **Estado:** Completado (según su trabajo).
+    *   **Cámara trasera (retro):**
+        *   **Problema:** No activaba al meter reversa.
+        *   **Solución (Dani):** Corregida; enlaza bien con el equipo al retro.
+        *   **Estado:** Resuelto (trabajo de Dani).
+    *   **A/C — diagnóstico Dani (2025), no confiable:**
+        *   **Dijo el taller:** Compresor quemado; posible contaminación total; cambio integral del sistema.
+        *   **Realidad / Autoteam feb. 2026:** Compresor **operativo** (hay compresión). Pendientes reales: **fuga de gas**, **ventilador** eléctrico, cableado columna por conversión de timón.
     *   **Afinamiento Motor:**
         *   **Acción:** Afinamiento completo del motor.
-        *   **Estado:** Completado.
+        *   **Estado:** Completado (según su trabajo).
+*   **Autoteam (taller actual, desde dic. 2025 / 2026):**
+    *   **Dic. 2025 — fuga retén palier / aceite de caja:** El arreglo fue **enteramente en Autoteam** (no en Dani): pérdida en zona de palier vinculada a aceite de caja y retén. **Doble cambio** de aceite de caja (Liqui Moly 75W-90, 3 L, tapón con imán); palier delantero izquierdo (fuelle, grasa, retén, abrazaderas). Detalle en **Transmisión**.
+    *   **Feb. 2026:** Informe A/C (compresor OK, fuga de gas por localizar, ventilador inoperativo, complicación por cableado de columna). Ver **Condición actual** y prioridades.
 *   **Mi Estilo de Conducción:** Deportivo pero eficiente en ciudad. No me gusta lo llamativo. Busco equilibrio entre diversión, eficiencia y confiabilidad.
 *   **Comparativas Anteriores:** Lo analicé frente a Genesis 3.8, Swift Sport, Mustang, Corvette C5, etc.
 *   **0-100km/h reciente:** Mi prueba dio 14s (influenciado por múltiples factores).
@@ -285,12 +292,11 @@ Este es mi plan de acción, considerando los diagnósticos recientes y trabajos 
     *   **Información Adicional (Dueño Anterior):** Lift bolts nunca reemplazados, mecánico consideró que no era necesario.
     *   **Acción:** Revisión completa: presión aceite, limpiar/revisar válvula OCV Lift y filtro malla, verificar/reemplazar `lift bolts` (a pesar de comentario anterior, considerar como parte de revisión exhaustiva), chequear sensor VVT.
 *   **Aire Acondicionado (A/C):**
-    *   **Diagnóstico Reciente:** Compresor quemado, posible contaminación completa del sistema.
-    *   **Acción:** Cambio completo del sistema de A/C (compresor, evaporador, condensador, líneas, válvula de expansión). Evaluar costo vs beneficio considerando uso del vehículo.
-*   **Cámara Trasera:**
-    *   **Síntoma:** No se conecta al meter retro.
-    *   **Estado:** Pendiente revisión (programada para viernes).
-    *   **Acción:** Diagnosticar conexiones, cableado y configuración del equipo multimedia.
+    *   **Informe Autoteam (feb. 2026):** Compresor **operativo** (hay compresión). Pendiente: **localizar fuga de gas**, reparar **ventilador** (eléctrico) y desbloquear diagnóstico pese al cableado de columna por conversión de timón.
+    *   **Acción:** Electricidad del ventilador primero; luego vacío, fuga, recarga; IAC si hace falta.
+*   **Capot (cerradura / gancho) — Autoteam:**
+    *   **Síntoma:** Abre mal; llegó a no abrir; gancho aparentemente **empalmado** en vez de acoplado correctamente.
+    *   **Acción:** **Autoteam:** cerradura, cable, gancho y soportes; corregir o reemplazar por esquema OEM.
 *   **Sistema de dirección:** Alineación y anclaje columna/cremallera, estado cardán.
     *   **Nota Adicional (Dueño Anterior):** La cremallera podría necesitar mantenimiento (sellos, teflones, hidrolina).
 *   **Pedalera y booster freno:** Firmeza, alineación, verificar soldaduras estructurales "artesanales".
@@ -300,10 +306,10 @@ Este es mi plan de acción, considerando los diagnósticos recientes y trabajos 
 *   **Hebilla Cinturón chofer:**
     *   **Síntoma:** Se cae al piso.
     *   **Acción:** Mitigado temporalmente con tope de silicona. Pedí tope de reemplazo (Temu). Instalar cuando llegue. Verificar mecanismo.
-*   **Revisión Adicional por Conversión RHD→LHD (Recomendación de Dani):**
-    *   **Objetivo:** Identificar y corregir posibles problemas de una conversión no óptima (comunes en autos de Tacna, según Dani).
+*   **Revisión adicional por conversión RHD→LHD (checklist para Autoteam):**
+    *   **Objetivo:** Identificar y corregir posibles problemas de una conversión no óptima (comunes en autos importados / conversión, según comentarios de talleres anteriores).
     *   **Puntos a revisar:**
-        *   **Sistema eléctrico y cableado tablero:** Empalmes, conexiones luces, radio, claxon, A/C, airbag, batería, fusibles, alternador. (Parcialmente resuelto con rearmado del tablero).
+        *   **Sistema eléctrico y cableado tablero:** Empalmes, conexiones luces, radio, claxon, A/C, airbag, batería, fusibles, alternador. (Parcialmente resuelto con rearmado del tablero; **cámara retro** corregida por Dani.)
         *   **Sistema de dirección:** Alineación y anclaje columna/cremallera, estado cardán. (Fricción en columna ya fue resuelta).
             *   **Nota Adicional (Dueño Anterior):** La cremallera podría necesitar mantenimiento (sellos, teflones, hidrolina).
         *   **Pedalera y booster freno:** Firmeza, alineación, verificar soldaduras estructurales "artesanales".
@@ -326,9 +332,10 @@ Este es mi plan de acción, considerando los diagnósticos recientes y trabajos 
 ### Problemas Resueltos Recientemente ✅
 *   **Motor (Fuga Refrigerante/Aceite):** Completamente reparado con rectificación de culata y asientos de válvula.
 *   **Cables del Shifter:** Reemplazados y acortados correctamente.
-*   **Fuga de Retén Palier:** Corregida.
 *   **Sistema Eléctrico del Tablero:** Rearmado y cableado corregido.
-*   **Refrigerante:** Cambiado por Motul de alta calidad.
+*   **Cámara trasera (retro):** Corregida por **Dani**; enlaza al meter retro.
+*   **Refrigerante (motor):** Culata/block reparados en época Dani; Dani declaró Motul azul — **observado verde en 2026** con Autoteam; verificar en próximo servicio.
+*   **Fuga retén palier / aceite de caja (solo Autoteam, dic. 2025):** Corregida en **Autoteam** (doble cambio Liqui Moly 75W-90, 3 L, tapón con imán; palier DEL: fuelle, grasa, retén, abrazaderas). Dani **no** hizo este trabajo.
 *   **Afinamiento Motor:** Completado.
 *   **Aro Trasero Izquierdo:** Rectificado para corregir deformación.
 
@@ -341,8 +348,9 @@ Este es mi plan de acción, considerando los diagnósticos recientes y trabajos 
     *   **Sistema VVTL-i:** Revisión y limpieza válvula OCV y filtro; verificar/reemplazar `lift bolts` (Nunca cambiados según dueño anterior).
     *   **Lubricación:** Cambio aceite y filtro (cada 5000 km o antes para control propio, último cambio hace ~2000km, usaba Mobil One 0W-40).
     *   **Correas Accesorios:** Revisar estado (alternador, A/C, dirección); reemplazar si están agrietadas/desgastadas.
-    *   **Fluidos:** Verificar/ajustar niveles refrigerante (cambiado recientemente por Motul azul), líquido dirección, líquido frenos.
+    *   **Fluidos:** Verificar/ajustar niveles de refrigerante de motor (historial: Prestone verde dueño anterior; Dani declaró Motul azul; **visual 2026: verde** — confirmar con **Autoteam** compatibilidad y estado), líquido dirección, líquido frenos.
     *   **Diagnóstico Electrónico:** Escaneo OBD completo para verificar códigos de falla latentes.
 
-**Nota sobre Mecánico:**
-*   **Dani (Taller en Calle Paz Soldán, Miraflores, Arequipa):** Ha sido competente y con precios razonables. Considerarlo para los siguientes trabajos.
+**Talleres:**
+*   **Autoteam (actual):** Donde se atiende el auto **ahora** (p. ej. caja y palier dic. 2025, informe y trabajo A/C feb. 2026, pendientes capot y eléctrica A/C).
+*   **Dani (ex-taller, Calle Paz Soldán, Miraflores, Arequipa):** El propietario considera **posible estafa** (relatos de **compresor quemado** y **Motul azul** no coinciden con lo comprobado después). **No contesta** desde hace tiempo. Entre trabajos que **sí** cuadran: motor/culata, shifter, tablero y **cámara retro**. Lo demás queda como **registro histórico** a validar con Autoteam si hace falta.
