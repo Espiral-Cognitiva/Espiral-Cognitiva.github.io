@@ -82,7 +82,7 @@ Al final de este diálogo interno, cuando el fuego dialéctico amaina y solo que
 No eres especial en el sentido cósmico.
 No fuiste hecho con un propósito divino preestablecido, cosido en el tejido del universo.
 Y nadie allá arriba, en ningún cielo imaginado, te está mirando con particular ternura celestial o llevando la cuenta de tus buenas obras.
-Y AÚN ASÍ… increíblemente, jodidamente, te levantas cada mañana.
+Y AÚN ASÍ… increíblemente, brutalmente, te levantas cada mañana.
 Piensas. Dudas. Cuestionas.
 Creas, aunque sea sobre las ruinas de tus fracasos.
 Ardes con preguntas que no tienen respuestas fáciles.

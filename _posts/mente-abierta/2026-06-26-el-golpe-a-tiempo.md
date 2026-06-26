@@ -7,7 +7,7 @@ categories: crianza antropologia filosofia psicologia evolucion mente-abierta
 
 Voy a empezar confesando la postura que defendía hace poco, sin maquillarla, porque solo así tiene mérito lo que viene después.
 
-Creía —con convicción, con argumentos, no por inercia— que somos demasiado blandos. Que con tanto *"nada de violencia en la crianza"* estamos tirando a la basura décadas, quizá siglos, de aprendizaje cultural colectivo, a cambio de teorías que no están probadas del todo. Que estamos corriendo un experimento gigante con generaciones enteras. Mi propuesta era sensata, o eso me parecía: no descartar la crianza tradicional para inventar *una mierda nueva*, sino quedarnos con su mejor versión y optimizar sobre ella.
+Creía —con convicción, con argumentos, no por inercia— que somos demasiado blandos. Que con tanto *"nada de violencia en la crianza"* estamos tirando a la basura décadas, quizá siglos, de aprendizaje cultural colectivo, a cambio de teorías que no están probadas del todo. Que estamos corriendo un experimento gigante con generaciones enteras. Mi propuesta era sensata, o eso me parecía: no descartar la crianza tradicional para inventar *una porquería nueva*, sino quedarnos con su mejor versión y optimizar sobre ella.
 
 Sigo pensando que la pregunta de fondo —¿estamos optimizando o estamos demoliendo?— es la correcta. Lo que cambió, y cambió en serio, fue mi idea de **qué es exactamente la tradición**.
 
@@ -70,7 +70,7 @@ La imagen que todos tenemos —el salvaje brutal que curtía a sus crías a golp
 
 ¿Y cuándo aparece el golpe sistemático como norma? Con la **agricultura**, hace unos 10.000 años. Con ella llegaron la propiedad privada, los excedentes, las jerarquías, la necesidad de hijos como mano de obra y herederos. El niño dejó de ser un miembro autónomo de la banda para convertirse en un recurso económico que debía obediencia. El castigo físico severo se documenta masivamente en las primeras civilizaciones agrícolas. Aquel *"la vara y la corrección dan sabiduría"* del libro de Proverbios no es sabiduría eterna de la especie: es el manual de una sociedad agro-pastoral concreta.
 
-Aquí está el vuelco que me dejó sin palabras: **el castigo físico no es la norma biológica de la especie. Es un experimento cultural reciente.** La "tradición milenaria" que yo defendía con tanta seguridad es un parpadeo de 10.000 años montado sobre 200.000 de otra cosa. Y la "mierda nueva" que despreciaba —apego, conexión, límites sin violencia— resulta ser, en su mejor versión, un *retorno refinado* al sustrato más antiguo que llevamos en la sangre.
+Aquí está el vuelco que me dejó sin palabras: **el castigo físico no es la norma biológica de la especie. Es un experimento cultural reciente.** La "tradición milenaria" que yo defendía con tanta seguridad es un parpadeo de 10.000 años montado sobre 200.000 de otra cosa. Y la "porquería nueva" que despreciaba —apego, conexión, límites sin violencia— resulta ser, en su mejor versión, un *retorno refinado* al sustrato más antiguo que llevamos en la sangre.
 
 No estamos tirando siglos a la basura. Estamos, quizá, soltando los últimos 10.000 años de un experimento para recuperar una sabiduría de 200.000 que habíamos olvidado.
 
