@@ -51,6 +51,8 @@ categories: categoria1 categoria2 mente-abierta  # o apto-para-todos
 
 **Tono:** provocador, riguroso, visual, confrontacional pero no condescendiente. Sin misticismo barato, sin autoayuda vacía, sin clichés.
 
+**Lenguaje fuerte sin vulgaridad:** se busca intensidad, no groserías. Antes de **cada commit** que toque un post, revisar groserías contra la tabla de equivalencias de `_includes/como-escribir.md` (sección "Lenguaje fuerte sin vulgaridad") y reemplazarlas (`mierda`→`porquería`/`demonios`, `jodido`→`increíble`/`brutal`, etc.). Aplica incluso a frases citadas del usuario: preservar la fuerza, no la grosería.
+
 **"Carnecita":** preferir borrador denso y rico sobre concisión superficial. El usuario edita después; Claude no auto-censura por extensión.
 
 ## Pseudonimato

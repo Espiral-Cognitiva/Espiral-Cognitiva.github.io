@@ -74,14 +74,6 @@ Aquí está el vuelco que me dejó sin palabras: **el castigo físico no es la n
 
 No estamos tirando siglos a la basura. Estamos, quizá, soltando los últimos 10.000 años de un experimento para recuperar una sabiduría de 200.000 que habíamos olvidado.
 
-## El mismo cuchillo corta el otro tema
-
-Empecé este hilo defendiendo dos cosas a la vez. La segunda era sobre los roles: que el propósito de la vida biológica es perdurar, expandirse, sobrevivir; que la reproducción y el cuidado de la siguiente generación son la clave; que ese cuidado cae naturalmente en la mujer y el sustento en el hombre; y que renegar de eso nos lleva a crisis poblacional, soledad, frustración, lo opuesto a la realización.
-
-El problema es que el mismo cuchillo antropológico corta este argumento. El modelo de *"hombre proveedor a tiempo completo, mujer cuidadora a tiempo completo"* tampoco es la constante biológica. En las bandas cazadoras-recolectoras, la recolección femenina aportaba la mayoría de las calorías diarias y el cuidado era una tarea de la tribu, no de una mujer sola. El reparto rígido de roles nació del **mismo paquete agrícola** que el castigo físico: propiedad, herencia, control de la sexualidad femenina para asegurar la línea de sangre. Las dos "tradiciones" que yo defendía como leyes naturales son artefactos del mismo experimento de hace 10.000 años.
-
-Y la temida crisis poblacional no es la especie traicionando su instinto. Es una respuesta racional a un entorno: vivienda imposible, dos salarios obligatorios para llegar a fin de mes, una maternidad que aún penaliza salvajemente la carrera de la mujer mientras al hombre no le cuesta lo mismo. Los países nórdicos, que reparten cuidado y sustento entre ambos sexos con políticas que lo hacen viable, tienen más natalidad que el sur de Europa, no menos. La crisis no viene de renegar del rol. Viene de un sistema que hace inviable formar familia sin destrozarse.
-
 ## Lo que de verdad aprendí: no es golpear o no golpear
 
 Aquí está la parte que más me importa, porque es donde un argumento ganado se podría convertir en un nuevo error.
