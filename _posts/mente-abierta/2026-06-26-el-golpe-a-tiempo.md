@@ -21,7 +21,7 @@ Queremos personas que tengan tapujos en obrar mal. Un freno visceral. Un "miedo 
 
 ¿Y la evidencia de que esto funciona? Yo mismo. Me criaron con golpe controlado —un poco más que controlado, si soy honesto— y aquí estoy: buena brújula moral, convicción, ninguna neurosis de hacer el mal. Mis *reglas básicas* del bien y el mal están grabadas a fuego porque entraron con dolor. Por eso son memorables.
 
-A esto le sumaba un segundo pilar: los niños, en la práctica, obedecen dos cosas. Castigo o premio. Lo demás son **argumentos bonitos** que suenan precioso en papel y se desarman ante un niño achorado a las ocho de la noche. Un jalón de oreja no hace daño; inflige un poco de dolor, que es distinto, y resuelve en dos segundos lo que media hora de pedagogía respetuosa no logra.
+A esto le sumaba un segundo pilar: los niños, en la práctica, obedecen dos cosas. Castigo o premio. Lo demás son **argumentos bonitos** que suenan precioso en papel y se desarman ante un niño achorado a las ocho de la noche. Un correctivo físico leve no hace daño; inflige un poco de dolor, que es distinto, y resuelve en dos segundos lo que media hora de pedagogía respetuosa no logra.
 
 Es una postura coherente. Pragmática. Y, durante años, blindada contra cualquier objeción "moderna". Hasta que apareció una que no venía de la moda, sino de los datos.
 
@@ -40,7 +40,7 @@ Lo más punzante: el psicólogo del desarrollo moral Lawrence Kohlberg describi�
 
 ## La grieta incómoda: los datos que quise desestimar
 
-Cuando me pusieron delante los meta-análisis de Elizabeth Gershoff —décadas de estudios longitudinales sobre castigo físico, miles de familias—, hice lo que hace cualquiera defendiendo su trinchera: busqué la salida fácil. *Eso es correlación, no causa. Hay sesgo. Los malos resultados vienen de la violencia excesiva, no de un cachete proporcional.*
+Cuando me pusieron delante los meta-análisis de Elizabeth Gershoff —décadas de estudios longitudinales sobre castigo físico, miles de familias—, hice lo que hace cualquiera defendiendo su trinchera: busqué la salida fácil. *Eso es correlación, no causa. Hay sesgo. Los malos resultados vienen de la violencia excesiva, no de un correctivo físico leve y proporcional.*
 
 Eran objeciones legítimas. Pero no aguantaron.
 
@@ -60,7 +60,7 @@ Aquí ya estaba incómodo. Pero todavía me quedaba mi última muralla: *así ev
 
 Mi muralla era el tiempo. *La tradición es sabia porque sobrevivió a innumerables generaciones de prueba y error.* Bien. Pongamos esa lógica a trabajar en serio. ¿Qué hacían con sus hijos los humanos durante el **95% de nuestra historia**, es decir, los cientos de miles de años que vivimos como cazadores-recolectores?
 
-La imagen que todos tenemos —el salvaje brutal que curtía a sus crías a golpes para un mundo violento— es falsa. La etnografía de las sociedades cazadoras-recolectoras que llegaron hasta el siglo XX (los !Kung del Kalahari, los Aka y Efe del Congo, los Hadza de Tanzania, los inuit antes de la sedentarización) muestra un patrón que, para alguien criado en la tradición del cachete, es desconcertante:
+La imagen que todos tenemos —el salvaje brutal que curtía a sus crías a golpes para un mundo violento— es falsa. La etnografía de las sociedades cazadoras-recolectoras que llegaron hasta el siglo XX (los !Kung del Kalahari, los Aka y Efe del Congo, los Hadza de Tanzania, los inuit antes de la sedentarización) muestra un patrón que, para alguien criado en la tradición del castigo físico, es desconcertante:
 
 - **Contacto físico casi constante** y respuesta inmediata al llanto. Nada de "déjalo llorar". Porteo, colecho, lactancia de tres o cuatro años. El niño se regula a través del cuerpo del adulto.
 - **Crianza repartida en la tribu:** madre, padre, abuelas, tías, hermanos mayores. Nunca una persona aislada cargando con todo.
@@ -83,7 +83,7 @@ Me movieron el piso, sí. Pero la lección no es *"deja de pegar y ya"*. Es algo
 Hay tres modelos, y conviene no confundirlos:
 
 - **El viejo malo:** "Obedéceme por miedo al dolor." Cría gente que respeta a la fuerza, no al bien.
-- **El moderno malo:** "Haz lo que quieras, no tengo energía para ponerte límites, toma una pantalla." Cría tiranos inseguros sin tolerancia a la frustración. Esto es lo que yo criticaba, y tenía razón: es *peor* que un cachete a tiempo. Pero no es el modelo ancestral; es una mala copia, la permisividad disfrazada de respeto.
+- **El moderno malo:** "Haz lo que quieras, no tengo energía para ponerte límites, toma una pantalla." Cría tiranos inseguros sin tolerancia a la frustración. Esto es lo que yo criticaba, y tenía razón: es *peor* que un correctivo físico a tiempo. Pero no es el modelo ancestral; es una mala copia, la permisividad disfrazada de respeto.
 - **El que vale la pena:** conexión y rituales de pertenencia para que tu opinión le pese; autonomía real para que se sienta competente; y cuando toca el límite, una **pared inamovible que no golpea**. No le pegas contra el muro: lo contienes delante de él hasta que aprende a no chocar solo.
 
 Y entonces aparece la objeción más honesta de todas, la mía: *suena maravilloso, pero ¿cómo hago eso trabajando frente a una pantalla, en una familia nuclear aislada, sin tribu?* La crianza ancestral funcionaba porque había una sociedad bien conexa y una vida en movimiento. La nuestra es estática, solitaria, fragmentada: casi una máquina diseñada para destruir los pilares de ese modelo. El diagnóstico es certero y duele: la crianza moderna, la buena, es una optimización dificilísima en un contexto hostil.
@@ -94,7 +94,7 @@ No tengo una solución mágica para reconstruir la aldea en un departamento. Per
 
 Mi posición final no es la de un converso ingenuo. Es la de alguien que aprendió a afinar su propia pregunta. Yo planteaba que toda crianza tiene riesgos, que no existe la ejecución perfecta, y que el dilema real es **de qué lado prefieres fallar**. Sigo creyéndolo. Es la pregunta de un padre honesto.
 
-Pero ahora sé algo que antes no: fallar del lado de la firmeza sin violencia es un error de ejecución, y los errores de ejecución se corrigen con más consistencia y presencia. Fallar del lado del golpe —aunque sea "proporcional", aunque sea un jalón de oreja— arriesga tocar el cableado más primitivo del vínculo y la confianza, y ese error es mucho más difícil de deshacer. Por eso la meta no debería ser *"reducir un poco la violencia"*. Debería ser *cero*, sabiendo que como humano agotado a veces fallarás. La diferencia entre apuntar a cero y aceptar "un poquito" no es semántica: es la diferencia entre un fallo de tu sistema y la normalización de la pendiente resbaladiza.
+Pero ahora sé algo que antes no: fallar del lado de la firmeza sin violencia es un error de ejecución, y los errores de ejecución se corrigen con más consistencia y presencia. Fallar del lado del golpe —aunque sea "proporcional", aunque sea un correctivo físico leve— arriesga tocar el cableado más primitivo del vínculo y la confianza, y ese error es mucho más difícil de deshacer. Por eso la meta no debería ser *"reducir un poco la violencia"*. Debería ser *cero*, sabiendo que como humano agotado a veces fallarás. La diferencia entre apuntar a cero y aceptar "un poquito" no es semántica: es la diferencia entre un fallo de tu sistema y la normalización de la pendiente resbaladiza.
 
 Así que la próxima vez que alguien levante la mano *"por su bien"*, invocando la sabiduría de los abuelos, que se haga la pregunta completa: ¿qué experimento estás corriendo en realidad —el de hace 10.000 años, o el de hace 200.000? ¿Y de qué lado prefieres fallar?
 
