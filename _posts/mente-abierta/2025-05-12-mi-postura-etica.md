@@ -5,9 +5,6 @@ date: 2025-05-12 10:00:00 +0200
 categories: reflexion etica filosofia liderazgo psicologia crecimiento-personal mente-abierta
 ---
 
-# Código Ético: Más Allá de Musashi, Hacia una Ética de la Bifurcación
-Por José Carrillo
-
 *"Desprecio por la autoindulgencia."*
 — Miyamoto Musashi, El Libro de los Cinco Anillos
 

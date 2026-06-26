@@ -20,7 +20,7 @@ Este blog no solo es un lugar para publicar ideas, es un **proyecto de vida**. C
 
 ## 🌍 ¿Quién está detrás?
 
-Este blog está creado y curado por **José Carrillo**, un curioso explorador del pensamiento, amante de la ciencia, la filosofía y las ideas que rompen con lo tradicional. Desde mi experiencia como CTO y fundador de Apurata, mi misión es fomentar una mentalidad abierta y crítica, inspirando a otros a pensar de manera libre y profunda.
+Un explorador del pensamiento, amante de la ciencia, la filosofía y las ideas que rompen con lo tradicional. La identidad importa menos que las ideas.
 
 ## 📂 Estructura del Contenido
 

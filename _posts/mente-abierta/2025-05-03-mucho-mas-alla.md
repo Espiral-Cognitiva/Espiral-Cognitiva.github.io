@@ -2,7 +2,6 @@
 layout: post
 title: "Mucho Más Allá: ¿Diseñadores de Nuevas Realidades?"
 date: 2025-05-03 10:00:00 +0200
-author: José Carrillo
 categories: filosofia ia consciencia futuro cosmologia especulativa mente-abierta
 ---
 
