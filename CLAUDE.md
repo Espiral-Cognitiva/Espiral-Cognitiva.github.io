@@ -14,3 +14,4 @@ Reglas:
 - Mensaje conciso describiendo el cambio (ej: "Add note about X", "Update Y section").
 - No pedir confirmación — el push es parte del flujo normal.
 - Autor del commit: `git config user.email noreply@anthropic.com && git config user.name Claude` (para que GitHub lo marque como verificado).
+- Al terminar de escribir o editar un post, siempre compartir el link directo en el sitio: `https://espiral-cognitiva.github.io/<año>/<mes>/<día>/<slug>.html`
