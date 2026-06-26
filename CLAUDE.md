@@ -17,6 +17,14 @@ Reglas:
 - Al terminar de escribir o editar un post, siempre compartir el link directo en el sitio: `https://espiral-cognitiva.github.io/<año>/<mes>/<día>/<slug>.html`
 - El sitio siempre debe tener `jekyll-sitemap` en `Gemfile` (grupo `:jekyll_plugins`) y en `plugins:` de `_config.yml`. Si alguno falta, agregarlo en el mismo commit.
 
+## Autoría y contenido
+
+Todo post debe estar inspirado en una interacción real con el usuario (conversación, reflexión compartida, pregunta concreta). Reglas:
+- **Nunca inventar contenido desde cero.** Sin conversación real de respaldo, no hay post.
+- Claude puede elaborar, estructurar y desarrollar — pero máximo ~30% del contenido puede ser aporte propio. El 70%+ debe provenir de ideas, frases o preguntas reales del usuario.
+- Si el usuario pasa un hilo o conversación, usarlo como fuente primaria. Citar o parafrasear ideas del hilo, no reemplazarlas con versiones genéricas.
+- Si no hay conversación real para un tema, decirlo y pedirla antes de escribir.
+
 ## Pseudonimato
 
 El blog es pseudónimo. Reglas para preservarlo:

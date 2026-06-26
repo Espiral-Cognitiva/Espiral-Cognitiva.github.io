@@ -51,7 +51,7 @@ Sería intelectualmente perezoso detenerse en la celebración. Toda analogía po
 
 1.  **El estoico elige su función de pérdida; el modelo la recibe.** Una IA optimiza el objetivo que le imponemos. El ser humano tiene la carga —y el privilegio— de *decidir qué cuenta como error*. Ahí no hay algoritmo que nos salve. Esa elección es radicalmente nuestra, y es el verdadero campo de batalla ético.
 
-2.  **El descenso de gradiente no duele.** Reducir el sufrimiento a "señal de aprendizaje" puede deslizarse hacia una frialdad peligrosa, una negación del dolor real. El estoicismo maduro no anestesia: reconoce el golpe, lo siente, y *aun así* decide qué hacer con él. La metáfora ilumina el mecanismo, no debe amputar la experiencia.
+2.  **El descenso de gradiente no duele.** Reducir el sufrimiento a "señal de aprendizaje" puede deslizarse hacia una frialdad peligrosa, una negación del dolor real. El estoicismo maduro no anestesia: reconoce el golpe, lo siente, y *aun así* decide qué hacer con él. La metáfora ilumina el mecanismo, no debe amputar la experiencia. Hay un orden que no se puede saltear: primero sentir, luego comprender, luego aprender, luego integrar. Quien intenta saltar del primero al cuarto no aprende — racionaliza.
 
 3.  **Generalizar no siempre es la virtud.** Hay heridas que piden ser recordadas en su singularidad, no disueltas en un patrón. La memoria del agravio injusto puede ser combustible para la justicia, no solo lastre. El olvido demasiado eficiente tiene su propio precio moral.
 
