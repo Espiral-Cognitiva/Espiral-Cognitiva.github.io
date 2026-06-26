@@ -21,7 +21,7 @@ Queremos personas que tengan tapujos en obrar mal. Un freno visceral. Un "miedo 
 
 ¿Y la evidencia de que esto funciona? Yo mismo. Me criaron con golpe controlado —un poco más que controlado, si soy honesto— y aquí estoy: buena brújula moral, convicción, ninguna neurosis de hacer el mal. Mis *reglas básicas* del bien y el mal están grabadas a fuego porque entraron con dolor. Por eso son memorables.
 
-A esto le sumaba un segundo pilar: los niños, en la práctica, obedecen dos cosas. Castigo o premio. Lo demás son **argumentos bonitos** que suenan precioso en papel y se desarman ante un niño achorado a las ocho de la noche. Un correctivo físico leve no hace daño; inflige un poco de dolor, que es distinto, y resuelve en dos segundos lo que media hora de pedagogía respetuosa no logra.
+A esto le sumaba un segundo pilar: los niños, en la práctica, obedecen dos cosas. Castigo o premio. Lo demás son **argumentos bonitos** que suenan precioso en papel y se desarman ante un niño en plena rabieta a las ocho de la noche. Un correctivo físico leve no hace daño; inflige un poco de dolor, que es distinto, y resuelve en dos segundos lo que media hora de pedagogía respetuosa no logra.
 
 Es una postura coherente. Pragmática. Y, durante años, blindada contra cualquier objeción "moderna". Hasta que apareció una que no venía de la moda, sino de los datos.
 
