@@ -12,13 +12,12 @@ La espiral representa un proceso continuo de aprendizaje, donde cada vuelta nos 
 
 ## ¿Quién está detrás?
 
-Este blog está creado y curado por ****, un explorador del pensamiento, amante de la ciencia, la filosofía y las ideas que rompen con lo tradicional. Desde mi experiencia como , mi misión es fomentar una mentalidad abierta y crítica, inspirando a otros a pensar de manera libre y profunda.
+Un explorador del pensamiento, amante de la ciencia, la filosofía y las ideas que rompen con lo tradicional. La identidad importa menos que las ideas — este blog existe para pensar en voz alta, no para firmar.
 
-## Contacto y Participación
+## Contacto
 
 - **Email**: [espiralcognitiva@gmail.com](mailto:espiralcognitiva@gmail.com)
 - **GitHub Issues**: Para sugerencias y comentarios técnicos
-- **Comentarios**: Disponibles en cada artículo
 
 ## Licencias
 
