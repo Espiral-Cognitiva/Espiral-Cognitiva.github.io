@@ -5,6 +5,8 @@ date: 2026-06-26 10:00:00 +0200
 categories: filosofia psicologia cognicion mente-abierta
 ---
 
+La intuición puede ser lo que separa a un experto de un principiante, o lo que lo convierte en el charlatán más peligroso del mercado. Esa ambigüedad es el corazón de este texto.
+
 Hay una experiencia que cualquier persona con suficiente práctica en algo ha tenido:
 
 *"Siento que esto es correcto, pero aún no sé explicarlo."*

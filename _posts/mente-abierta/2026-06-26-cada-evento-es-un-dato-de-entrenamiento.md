@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Cada Evento es un Dato de Entrenamiento: El Estoicismo como Aprendizaje Continuo"
+title: "Datos de Entrenamiento: Lo que Marco Aurelio Sabía Dieciocho Siglos Antes"
 date: 2026-06-26 10:00:00 +0200
 categories: filosofia estoicismo ia aprendizaje pensamiento-critico mente-abierta
 ---
+
+Dieciocho siglos antes de que existiera el primer algoritmo, un esclavo griego y un emperador romano ya habían descubierto cómo entrenar la mente. No lo llamaban así. Lo llamaban vivir bien.
 
 La conversación había derivado, como suele ocurrir, hacia un terreno inesperado. Hablábamos de cómo una inteligencia artificial aprende: no de golpe, no por iluminación, sino dato a dato, ejemplo a ejemplo, ajustando sus pesos internos ante cada error y cada acierto. Y entonces alguien dijo una frase que se quedó vibrando en el aire:
 

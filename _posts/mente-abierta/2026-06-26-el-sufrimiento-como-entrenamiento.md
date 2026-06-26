@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "No Desperdicies el Sufrimiento"
+title: "Sentir Primero: No Desperdicies el Sufrimiento"
 date: 2026-06-26 10:00:00 +0200
 categories: filosofia estoicismo psicologia mente-abierta
 ---
+
+Hay una versión del estoicismo que parece sabiduría y es disociación disfrazada: la de quien, ante la pérdida más profunda, dice casi con orgullo *"esto es un dato de entrenamiento."* Esa persona no aprende más rápido. Se desconecta. Y esa desconexión tiene un precio que cobra tarde.
 
 Convertir cada evento en entrenamiento no significa disfrutar el sufrimiento.
 
@@ -12,8 +14,6 @@ Significa preguntarte: *¿qué habilidad me está obligando a desarrollar esto?*
 El enojo entrena autocontrol. La tragedia entrena resiliencia. El fracaso entrena criterio. La traición entrena selección de personas. El éxito entrena humildad.
 
 Visto así, la vida deja de ser una secuencia de eventos y pasa a ser un gimnasio.
-
----
 
 Pero hay una trampa en la que cae mucha gente que intenta practicar esto.
 
