@@ -14,7 +14,7 @@ Reglas:
 - Mensaje conciso describiendo el cambio (ej: "Add note about X", "Update Y section").
 - No pedir confirmación — el push es parte del flujo normal.
 - Autor del commit: `git config user.email noreply@anthropic.com && git config user.name Claude` (para que GitHub lo marque como verificado).
-- Al terminar de escribir o editar un post, siempre compartir el link directo en el sitio: `https://espiral-cognitiva.github.io/<año>/<mes>/<día>/<slug>.html`
+- Al terminar de escribir o editar un post, siempre compartir el link directo en el sitio: `https://espiral-cognitiva.github.io/<año>/<mes>/<día>/<slug>/`
 - El sitio siempre debe tener `jekyll-sitemap` en `Gemfile` (grupo `:jekyll_plugins`) y en `plugins:` de `_config.yml`. Si alguno falta, agregarlo en el mismo commit.
 
 ## Autoría y contenido
@@ -24,6 +24,34 @@ Todo post debe estar inspirado en una interacción real con el usuario (conversa
 - Claude puede elaborar, estructurar y desarrollar — pero máximo ~30% del contenido puede ser aporte propio. El 70%+ debe provenir de ideas, frases o preguntas reales del usuario.
 - Si el usuario pasa un hilo o conversación, usarlo como fuente primaria. Citar o parafrasear ideas del hilo, no reemplazarlas con versiones genéricas.
 - Si no hay conversación real para un tema, decirlo y pedirla antes de escribir.
+
+## Guía de escritura
+
+La guía completa de estilo, tono y estructura está en `_includes/como-escribir.md`. Leerla antes de escribir cualquier post. La persona/voz del blog está en `_includes/gpt.md`.
+
+Reglas operativas clave (resumen):
+
+**Títulos:** formato de dos partes `"Concepto: Provocación"` — ej: "Ley de Murphy Inversa: Forjando la Realidad". El separador es siempre `:`. Series usan prefijo consistente ("Diálogo con X:", "Manifiesto X:").
+
+**Frontmatter obligatorio:**
+```yaml
+layout: post
+title: "Título: Subtítulo provocador"
+date: YYYY-MM-DD 10:00:00 +0200
+categories: categoria1 categoria2 mente-abierta  # o apto-para-todos
+```
+- Sin campo `author` (blog pseudónimo).
+- Categorías en minúsculas con guiones, separadas por espacios (no arrays).
+- Última categoría indica la colección: `mente-abierta` (contenido complejo) o `apto-para-todos` (accesible).
+
+**Estructura del post:**
+- Apertura con gancho: pregunta, escenario o afirmación provocadora.
+- Secciones con `##` — sin repetir el título del frontmatter.
+- Cierre obligatorio: pregunta provocadora al lector, llamado a la acción, o frase corta de "golpe seco".
+
+**Tono:** provocador, riguroso, visual, confrontacional pero no condescendiente. Sin misticismo barato, sin autoayuda vacía, sin clichés.
+
+**"Carnecita":** preferir borrador denso y rico sobre concisión superficial. El usuario edita después; Claude no auto-censura por extensión.
 
 ## Pseudonimato
 
